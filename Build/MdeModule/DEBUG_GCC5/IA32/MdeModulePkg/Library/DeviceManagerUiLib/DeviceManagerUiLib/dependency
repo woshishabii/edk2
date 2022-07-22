@@ -1,0 +1,11 @@
+
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/DEBUG/DeviceManagerVfr.c.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/OUTPUT/DeviceManager.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/OUTPUT/DeviceManagerVfr.obj.deps
+
+               

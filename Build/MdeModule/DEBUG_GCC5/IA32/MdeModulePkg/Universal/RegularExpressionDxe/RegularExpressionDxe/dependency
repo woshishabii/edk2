@@ -1,0 +1,61 @@
+
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/ascii.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/euc_jp.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/euc_jp_prop.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/onig_init.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/regcomp.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/regenc.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/regerror.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/regexec.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/reggnu.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/regparse.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/regposerr.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/regposix.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/regsyntax.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/regtrav.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/regversion.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/sjis.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/sjis_prop.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/st.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/unicode.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/unicode_fold1_key.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/unicode_fold2_key.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/unicode_fold3_key.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/unicode_unfold_key.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/utf16_be.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/utf16_le.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/oniguruma/src/utf8.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/OnigurumaUefiPort.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.obj.deps
+
+               

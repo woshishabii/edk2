@@ -1,0 +1,106 @@
+## @file
+#  Report Status Code Router Driver which produces SMM Report Stataus Code Handler Protocol and SMM Status Code Protocol.
+#
+#  Copyright (c) 2009 - 2018, Intel Corporation. All rights reserved.<BR>
+#
+#  SPDX-License-Identifier: BSD-2-Clause-Patent
+#
+#
+##
+
+# DO NOT EDIT
+# FILE auto-generated
+
+[Defines]
+  INF_VERSION                = 0x00010017
+  BASE_NAME                  = ReportStatusCodeRouterSmm
+  FILE_GUID                  = A6885402-D022-4b0e-A509-4711B90F2A39
+  MODULE_TYPE                = DXE_SMM_DRIVER
+  VERSION_STRING             = 1.0
+  PI_SPECIFICATION_VERSION   = 0x0001000A
+  ENTRY_POINT                = GenericStatusCodeSmmEntry
+  MODULE_UNI_FILE            = ReportStatusCodeRouterSmm.uni
+
+[Packages.IA32]
+  MdePkg/MdePkg.dec
+
+[Binaries.IA32]
+  PE32|ReportStatusCodeRouterSmm.efi
+  SMM_DEPEX|ReportStatusCodeRouterSmm.depex
+
+[PatchPcd.IA32]
+
+[Protocols.IA32]
+  ## PRODUCES
+  gEfiSmmRscHandlerProtocolGuid
+
+  ## PRODUCES
+  gEfiSmmStatusCodeProtocolGuid
+
+  ## CONSUMES
+  gEfiSmmBase2ProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiLoadedImageProtocolGuid
+
+  ## CONSUMES
+  gEfiSmmAccess2ProtocolGuid
+
+
+[Ppis.IA32]
+
+[Guids.IA32]
+
+[PcdEx.IA32]
+
+[LibraryClasses.IA32]
+## @LIB_INSTANCES
+#  MdePkg/Library/BasePcdLibNull/BasePcdLibNull.inf
+#  MdePkg/Library/BaseMemoryLib/BaseMemoryLib.inf
+#  MdePkg/Library/BaseLib/BaseLib.inf
+#  MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull.inf
+#  MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib.inf
+#  MdePkg/Library/BaseTimerLibNullTemplate/BaseTimerLibNullTemplate.inf
+#  MdePkg/Library/SmmServicesTableLib/SmmServicesTableLib.inf
+#  MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint.inf
+#  MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib.inf
+#  MdePkg/Library/SmmMemoryAllocationLib/SmmMemoryAllocationLib.inf
+
+[Depex.IA32]
+#  (TRUE) AND (gEfiSmmBase2ProtocolGuid) AND (gEfiBdsArchProtocolGuid AND gEfiCpuArchProtocolGuid AND gEfiMetronomeArchProtocolGuid AND gEfiMonotonicCounterArchProtocolGuid AND gEfiRealTimeClockArchProtocolGuid AND gEfiResetArchProtocolGuid AND gEfiRuntimeArchProtocolGuid AND gEfiSecurityArchProtocolGuid AND gEfiTimerArchProtocolGuid AND gEfiVariableWriteArchProtocolGuid AND gEfiVariableArchProtocolGuid AND gEfiWatchdogTimerArchProtocolGuid) AND (gEfiSmmAccess2ProtocolGuid)
+
+[UserExtensions.TianoCore."ExtraFiles"]
+ReportStatusCodeRouterSmmExtra.uni
+
+
+
+#
+# The following information is for reference only and not required by the build tools.
+#
+#  VALID_ARCHITECTURES           = IA32 X64
+#
+
+[BuildOptions.IA32]
+## @AsBuilt
+##   GCC:DEBUG_GCC5_IA32_ASLPP_FLAGS = -x c -E -include AutoGen.h
+##   GCC:DEBUG_GCC5_IA32_ASLDLINK_FLAGS = -nostdlib -Wl,-n,-q,--gc-sections -z common-page-size=0x40 -Wl,--defsym=PECOFF_HEADER_SIZE=0 -Wl,--script=$(EDK_TOOLS_PATH)/Scripts/GccBase.lds -Wl,--entry,ReferenceAcpiTable -u ReferenceAcpiTable -Wl,-m,elf_i386 -no-pie
+##   GCC:DEBUG_GCC5_IA32_GENFW_FLAGS = 
+##   GCC:DEBUG_GCC5_IA32_OBJCOPY_FLAGS = 
+##   GCC:DEBUG_GCC5_IA32_DEPS_FLAGS = -MMD -MF $@.deps
+##   GCC:DEBUG_GCC5_IA32_ASM_FLAGS = -c -x assembler -imacros AutoGen.h -m32 -march=i386
+##   GCC:DEBUG_GCC5_IA32_CC_FLAGS = -g -Os -fshort-wchar -fno-builtin -fno-strict-aliasing -Wall -Werror -Wno-array-bounds -include AutoGen.h -fno-common -ffunction-sections -fdata-sections -DSTRING_ARRAY_NAME=$(BASE_NAME)Strings -m32 -march=i586 -malign-double -fno-stack-protector -D EFI32 -fno-asynchronous-unwind-tables -Wno-address -fno-pic -fno-pie -flto -Os
+##   GCC:DEBUG_GCC5_IA32_ASMLINK_FLAGS = /nologo /tiny
+##   GCC:DEBUG_GCC5_IA32_VFR_FLAGS = -l -n
+##   GCC:DEBUG_GCC5_IA32_ASLCC_FLAGS = -x c -fno-lto -m32
+##   GCC:DEBUG_GCC5_IA32_APP_FLAGS = 
+##   GCC:DEBUG_GCC5_IA32_NASM_FLAGS = -f elf32
+##   GCC:DEBUG_GCC5_IA32_OPTROM_FLAGS = -e
+##   GCC:DEBUG_GCC5_IA32_DTC_FLAGS = -H epapr
+##   GCC:DEBUG_GCC5_IA32_SYMRENAME_FLAGS = Symbol renaming not needed for
+##   GCC:DEBUG_GCC5_IA32_RC_FLAGS = -I binary -O elf32-i386          -B i386    --rename-section .data=.hii
+##   GCC:DEBUG_GCC5_IA32_PP_FLAGS = -E -x assembler-with-cpp -include AutoGen.h -DOPENSBI_EXTERNAL_SBI_TYPES=OpensbiTypes.h
+##   GCC:DEBUG_GCC5_IA32_VFRPP_FLAGS = -x c -E -P -DVFRCOMPILE --include $(MODULE_NAME)StrDefs.h
+##   GCC:DEBUG_GCC5_IA32_DLINK_FLAGS = -nostdlib -Wl,-n,-q,--gc-sections -z common-page-size=0x40 -Wl,--entry,$(IMAGE_ENTRY_POINT) -u $(IMAGE_ENTRY_POINT) -Wl,-Map,$(DEST_DIR_DEBUG)/$(BASE_NAME).map,--whole-archive -flto -Os -Wl,-m,elf_i386,--oformat=elf32-i386
+##   GCC:DEBUG_GCC5_IA32_ASL_FLAGS = 
+##   GCC:DEBUG_GCC5_IA32_NASMB_FLAGS = -f bin
+##   GCC:DEBUG_GCC5_IA32_DLINK2_FLAGS = -Wl,--defsym=PECOFF_HEADER_SIZE=0x220 -Wl,--script=$(EDK_TOOLS_PATH)/Scripts/GccBase.lds -Wno-error -no-pie

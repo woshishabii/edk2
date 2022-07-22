@@ -1,0 +1,15 @@
+
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmm/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmm/OUTPUT/FaultTolerantWrite.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmm/OUTPUT/FaultTolerantWriteSmm.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmm/OUTPUT/FaultTolerantWriteTraditionalMm.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmm/OUTPUT/FtwMisc.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmm/OUTPUT/UpdateWorkingBlock.obj.deps
+
+               

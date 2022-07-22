@@ -1,0 +1,9 @@
+-I/workspace/edk2/UefiCpuPkg/Library/BaseUefiCpuLib/X64
+-I/workspace/edk2/UefiCpuPkg/Library/BaseUefiCpuLib
+-I/workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/DEBUG
+-I/workspace/edk2/MdePkg
+-I/workspace/edk2/MdePkg/Include
+-I/workspace/edk2/MdePkg/Test/UnitTest/Include
+-I/workspace/edk2/MdePkg/Include/X64
+-I/workspace/edk2/UefiCpuPkg
+-I/workspace/edk2/UefiCpuPkg/Include

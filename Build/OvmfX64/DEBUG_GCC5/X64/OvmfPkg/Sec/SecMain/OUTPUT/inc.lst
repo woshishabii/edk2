@@ -1,0 +1,14 @@
+-I/workspace/edk2/OvmfPkg/Sec/X64
+-I/workspace/edk2/OvmfPkg/Sec
+-I/workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/Sec/SecMain/DEBUG
+-I/workspace/edk2/MdePkg
+-I/workspace/edk2/MdePkg/Include
+-I/workspace/edk2/MdePkg/Test/UnitTest/Include
+-I/workspace/edk2/MdePkg/Include/X64
+-I/workspace/edk2/MdeModulePkg
+-I/workspace/edk2/MdeModulePkg/Include
+-I/workspace/edk2/UefiCpuPkg
+-I/workspace/edk2/UefiCpuPkg/Include
+-I/workspace/edk2/OvmfPkg
+-I/workspace/edk2/OvmfPkg/Include
+-I/workspace/edk2/OvmfPkg/Csm/Include

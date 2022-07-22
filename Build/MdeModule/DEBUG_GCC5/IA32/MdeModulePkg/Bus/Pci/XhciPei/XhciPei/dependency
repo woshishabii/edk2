@@ -1,0 +1,13 @@
+
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Bus/Pci/XhciPei/XhciPei/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Bus/Pci/XhciPei/XhciPei/OUTPUT/DmaMem.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Bus/Pci/XhciPei/XhciPei/OUTPUT/UsbHcMem.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Bus/Pci/XhciPei/XhciPei/OUTPUT/XhcPeim.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Bus/Pci/XhciPei/XhciPei/OUTPUT/XhciSched.obj.deps
+
+               

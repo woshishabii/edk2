@@ -1,0 +1,10 @@
+-I/workspace/edk2/OvmfPkg/Library/XenHypercallLib/X64
+-I/workspace/edk2/OvmfPkg/Library/XenHypercallLib
+-I/workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/Library/XenHypercallLib/XenHypercallLib/DEBUG
+-I/workspace/edk2/MdePkg
+-I/workspace/edk2/MdePkg/Include
+-I/workspace/edk2/MdePkg/Test/UnitTest/Include
+-I/workspace/edk2/MdePkg/Include/X64
+-I/workspace/edk2/OvmfPkg
+-I/workspace/edk2/OvmfPkg/Include
+-I/workspace/edk2/OvmfPkg/Csm/Include

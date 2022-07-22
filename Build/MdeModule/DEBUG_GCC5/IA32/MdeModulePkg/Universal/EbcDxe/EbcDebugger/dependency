@@ -1,0 +1,57 @@
+
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/Edb.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdBranch.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdBreak.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdBreakpoint.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdExtIo.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdExtPci.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdGo.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdHelp.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdMemory.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdQuit.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdRegister.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdScope.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdStep.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCmdSymbol.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbCommand.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbDisasm.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbDisasmSupport.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbHook.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbSupportFile.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbSupportString.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbSupportUI.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcDebugger/EdbSymbol.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/Ia32/EbcLowLevel.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/Ia32/EbcSupport.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcExecute.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/EbcDxe/EbcDebugger/OUTPUT/EbcInt.obj.deps
+
+               

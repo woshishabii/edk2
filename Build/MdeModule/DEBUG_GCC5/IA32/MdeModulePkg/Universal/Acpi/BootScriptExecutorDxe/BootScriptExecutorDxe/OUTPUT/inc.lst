@@ -1,0 +1,10 @@
+-I/workspace/edk2/MdeModulePkg/Universal/Acpi/BootScriptExecutorDxe/IA32
+-I/workspace/edk2/MdeModulePkg/Universal/Acpi/BootScriptExecutorDxe
+-I/workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Acpi/BootScriptExecutorDxe/BootScriptExecutorDxe/DEBUG
+-I/workspace/edk2/MdePkg
+-I/workspace/edk2/MdePkg/Include
+-I/workspace/edk2/MdePkg/Test/UnitTest/Include
+-I/workspace/edk2/MdePkg/Include/Ia32
+-I/workspace/edk2/MdeModulePkg
+-I/workspace/edk2/MdeModulePkg/Include
+-I/workspace/edk2/MdeModulePkg/Library/BrotliCustomDecompressLib/brotli/c/include

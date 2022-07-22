@@ -1,0 +1,29 @@
+
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/Reclaim.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/SpeculationBarrierSmm.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/TcgMorLockSmm.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/VarCheck.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/Variable.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/VariableExLib.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/VariableLockRequestToLock.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/VariableNonVolatile.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/VariableParsing.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/VariableRuntimeCache.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/VariableSmm.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableStandaloneMm/OUTPUT/VariableStandaloneMm.obj.deps
+
+               

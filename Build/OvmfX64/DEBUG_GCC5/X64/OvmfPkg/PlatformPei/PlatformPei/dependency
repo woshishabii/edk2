@@ -1,0 +1,23 @@
+
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformPei/PlatformPei/OUTPUT/AmdSev.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformPei/PlatformPei/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformPei/PlatformPei/OUTPUT/ClearCache.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformPei/PlatformPei/OUTPUT/Cmos.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformPei/PlatformPei/OUTPUT/FeatureControl.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformPei/PlatformPei/OUTPUT/Fv.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformPei/PlatformPei/OUTPUT/MemDetect.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformPei/PlatformPei/OUTPUT/MemTypeInfo.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformPei/PlatformPei/OUTPUT/Platform.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformPei/PlatformPei/OUTPUT/Xen.obj.deps
+
+               

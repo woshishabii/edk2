@@ -1,0 +1,13 @@
+
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/XenPvBlkDxe/XenPvBlkDxe/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/XenPvBlkDxe/XenPvBlkDxe/OUTPUT/BlockFront.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/XenPvBlkDxe/XenPvBlkDxe/OUTPUT/BlockIo.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/XenPvBlkDxe/XenPvBlkDxe/OUTPUT/ComponentName.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/XenPvBlkDxe/XenPvBlkDxe/OUTPUT/XenPvBlkDxe.obj.deps
+
+               

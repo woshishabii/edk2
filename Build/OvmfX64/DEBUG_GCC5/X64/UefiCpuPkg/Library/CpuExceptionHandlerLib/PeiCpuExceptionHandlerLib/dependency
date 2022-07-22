@@ -1,0 +1,13 @@
+
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/PeiCpuExceptionHandlerLib/OUTPUT/X64/ArchExceptionHandler.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/PeiCpuExceptionHandlerLib/OUTPUT/X64/Xcode5ExceptionHandlerAsm.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/PeiCpuExceptionHandlerLib/OUTPUT/CpuExceptionCommon.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/PeiCpuExceptionHandlerLib/OUTPUT/PeiCpuException.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/PeiCpuExceptionHandlerLib/OUTPUT/PeiDxeSmmCpuException.obj.deps
+
+               

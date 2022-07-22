@@ -1,0 +1,330 @@
+## @file
+#  Driver Health Manager DXE driver.
+#
+#  This module produces two driver health manager forms.
+#  One will be used by BDS core to configure the Configured Required
+#  driver health instances, the other will be automatically included by
+#  firmware setup (UI).
+#
+#  Copyright (c) 2013 - 2018, Intel Corporation. All rights reserved.<BR>
+#  SPDX-License-Identifier: BSD-2-Clause-Patent
+#
+##
+################################################################################
+#
+# Defines Section - statements that will be processed to create a Makefile.
+#
+################################################################################
+
+# DO NOT EDIT
+# FILE auto-generated
+
+[Defines]
+  INF_VERSION                = 0x00010017
+  BASE_NAME                  = DriverHealthManagerDxe
+  FILE_GUID                  = EBF8ED7C-0DD1-4787-84F1-F48D537DCACF
+  MODULE_TYPE                = DXE_DRIVER
+  VERSION_STRING             = 1.0
+  ENTRY_POINT                = InitializeDriverHealthManager
+  MODULE_UNI_FILE            = DriverHealthManagerDxe.uni
+
+[Packages.IA32]
+  MdePkg/MdePkg.dec
+  MdeModulePkg/MdeModulePkg.dec
+
+[Binaries.IA32]
+  PE32|DriverHealthManagerDxe.efi
+  DXE_DEPEX|DriverHealthManagerDxe.depex
+
+[PatchPcd.IA32]
+
+[Protocols.IA32]
+  ## PRODUCES
+  gEfiHiiConfigAccessProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  gEfiDevicePathProtocolGuid
+
+  ## UNDEFINED
+  gEfiDebugPortProtocolGuid
+
+  ## SOMETIMES_PRODUCES
+  gEfiDriverBindingProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  gEfiSimpleTextOutProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  gEfiGraphicsOutputProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  gEfiHiiFontProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  gEfiSimpleFileSystemProtocolGuid
+
+  ## SOMETIMES_CONSUMES # Consumes if gEfiGraphicsOutputProtocolGuid uninstalled
+  gEfiUgaDrawProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  gEfiComponentNameProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  gEfiComponentName2ProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  gEfiDriverConfigurationProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  gEfiDriverConfiguration2ProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  gEfiDriverDiagnosticsProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  gEfiDriverDiagnostics2ProtocolGuid
+
+  ## CONSUMES
+  gEfiHiiStringProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiHiiImageProtocolGuid
+
+  ## CONSUMES
+  gEfiHiiDatabaseProtocolGuid
+
+  ## CONSUMES
+  gEfiHiiConfigRoutingProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  gEfiFirmwareVolume2ProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  ## CONSUMES
+  gEfiLoadedImageProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  gEfiLoadFileProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiLoadFile2ProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  gEfiFormBrowser2ProtocolGuid
+
+  ## CONSUMES
+  gEfiPciRootBridgeIoProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiPciIoProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiSimpleNetworkProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiSimpleTextInProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiBlockIoProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiBootLogoProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiSimpleTextInputExProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEdkiiVariableLockProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiUsbIoProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiNvmExpressPassThruProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiDiskInfoProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiDriverHealthProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiRamDiskProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiDeferredImageLoadProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEdkiiPlatformBootManagerProtocolGuid
+
+
+[Ppis.IA32]
+
+[Guids.IA32]
+  ## CONSUMES ## GUID
+  gEfiHiiDriverHealthFormsetGuid
+
+  ## CONSUMES ## HII
+  gEfiIfrTianoGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiVTUTF8Guid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiVT100Guid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiVT100PlusGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiPcAnsiGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiUartDevicePathGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiSasDevicePathGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiVirtualDiskGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiVirtualCdGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiPersistentVirtualDiskGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiPersistentVirtualCdGuid
+
+  ## SOMETIMES_CONSUMES  ## Event
+  gEfiEventReadyToBootGuid
+
+  ## SOMETIMES_CONSUMES  ## Event
+  gEfiEventLegacyBootGuid
+
+  ## SOMETIMES_CONSUMES  ## Variable
+  ## SOMETIMES_PRODUCES ## Variable:L"BootCurrent" (The boot option of current boot)
+  ## SOMETIMES_CONSUMES ## Variable:L"BootXX" (Boot option variable)
+  ## SOMETIMES_CONSUMES ## Variable:L"BootOrder" (The boot option array)
+  ## SOMETIMES_CONSUMES ## Variable:L"DriverOrder" (The driver order list)
+  ## SOMETIMES_CONSUMES ## Variable:L"ConIn" (The device path of console in device)
+  ## SOMETIMES_CONSUMES ## Variable:L"ConOut" (The device path of console out device)
+  ## SOMETIMES_CONSUMES ## Variable:L"ErrOut" (The device path of error out device)
+  gEfiGlobalVariableGuid
+
+  ## SOMETIMES_CONSUMES  ## SystemTable
+  gEfiAcpi20TableGuid
+
+  ## SOMETIMES_CONSUMES  ## SystemTable
+  gEfiAcpi10TableGuid
+
+  ## SOMETIMES_CONSUMES ## UNDEFINED
+  gEfiFileInfoGuid
+
+  ## CONSUMES  ## SystemTable
+  gEfiDxeServicesTableGuid
+
+  ## CONSUMES  ## SystemTable
+  gEfiHobListGuid
+
+  ## SOMETIMES_CONSUMES ## GUID
+  gEdkiiIfrBitVarstoreGuid
+
+  ## SOMETIMES_CONSUMES ## SystemTable (The identifier of memory type information type in system table)
+  ## SOMETIMES_CONSUMES ## HOB (The hob holding memory type information)
+  ## SOMETIMES_CONSUMES ## Variable:L"MemoryTypeInformation."
+  ## SOMETIMES_PRODUCES ## Variable:L"MemoryTypeInformation."
+  gEfiMemoryTypeInformationGuid
+
+  ## SOMETIMES_CONSUMES ## GUID
+  gEdkiiStatusCodeDataTypeVariableGuid
+
+  ## SOMETIMES_CONSUMES ## GUID
+  gEfiDiskInfoAhciInterfaceGuid
+
+  ## SOMETIMES_CONSUMES ## GUID
+  gEfiDiskInfoIdeInterfaceGuid
+
+  ## SOMETIMES_CONSUMES ## GUID
+  gEfiDiskInfoScsiInterfaceGuid
+
+  ## SOMETIMES_CONSUMES ## GUID
+  gEfiDiskInfoSdMmcInterfaceGuid
+
+
+[PcdEx.IA32]
+
+[LibraryClasses.IA32]
+## @LIB_INSTANCES
+#  MdePkg/Library/BasePcdLibNull/BasePcdLibNull.inf
+#  MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull.inf
+#  MdePkg/Library/BaseLib/BaseLib.inf
+#  MdePkg/Library/BaseMemoryLib/BaseMemoryLib.inf
+#  MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib.inf
+#  MdePkg/Library/BasePrintLib/BasePrintLib.inf
+#  MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib.inf
+#  MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib.inf
+#  MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib.inf
+#  MdePkg/Library/UefiLib/UefiLib.inf
+#  MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.inf
+#  MdeModulePkg/Library/BaseSortLib/BaseSortLib.inf
+#  MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull.inf
+#  MdePkg/Library/DxeServicesLib/DxeServicesLib.inf
+#  MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib.inf
+#  MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib.inf
+#  MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull.inf
+#  MdePkg/Library/DxeHobLib/DxeHobLib.inf
+#  MdeModulePkg/Library/UefiHiiLib/UefiHiiLib.inf
+#  MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint.inf
+#  MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib.inf
+
+[Depex.IA32]
+#  (gEfiHiiDatabaseProtocolGuid AND gEfiFormBrowser2ProtocolGuid) AND (gEfiHiiStringProtocolGuid        AND gEfiHiiDatabaseProtocolGuid      AND gEfiHiiConfigRoutingProtocolGuid) AND (gEfiHiiStringProtocolGuid        AND gEfiHiiDatabaseProtocolGuid      AND gEfiHiiConfigRoutingProtocolGuid) AND (gEfiHiiStringProtocolGuid        AND gEfiHiiDatabaseProtocolGuid      AND gEfiHiiConfigRoutingProtocolGuid) AND (gEfiHiiStringProtocolGuid        AND gEfiHiiDatabaseProtocolGuid      AND gEfiHiiConfigRoutingProtocolGuid) AND (gEfiBdsArchProtocolGuid AND gEfiCpuArchProtocolGuid AND gEfiMetronomeArchProtocolGuid AND gEfiMonotonicCounterArchProtocolGuid AND gEfiRealTimeClockArchProtocolGuid AND gEfiResetArchProtocolGuid AND gEfiRuntimeArchProtocolGuid AND gEfiSecurityArchProtocolGuid AND gEfiTimerArchProtocolGuid AND gEfiVariableWriteArchProtocolGuid AND gEfiVariableArchProtocolGuid AND gEfiWatchdogTimerArchProtocolGuid)
+
+[UserExtensions.TianoCore."ExtraFiles"]
+DriverHealthManagerDxeExtra.uni
+
+
+
+#
+# The following information is for reference only and not required by the build tools.
+#
+#  VALID_ARCHITECTURES           = IA32 X64 EBC
+#
+
+[BuildOptions.IA32]
+## @AsBuilt
+##   GCC:DEBUG_GCC5_IA32_ASLPP_FLAGS = -x c -E -include AutoGen.h
+##   GCC:DEBUG_GCC5_IA32_ASLDLINK_FLAGS = -nostdlib -Wl,-n,-q,--gc-sections -z common-page-size=0x40 -Wl,--defsym=PECOFF_HEADER_SIZE=0 -Wl,--script=$(EDK_TOOLS_PATH)/Scripts/GccBase.lds -Wl,--entry,ReferenceAcpiTable -u ReferenceAcpiTable -Wl,-m,elf_i386 -no-pie
+##   GCC:DEBUG_GCC5_IA32_GENFW_FLAGS = 
+##   GCC:DEBUG_GCC5_IA32_OBJCOPY_FLAGS = 
+##   GCC:DEBUG_GCC5_IA32_DEPS_FLAGS = -MMD -MF $@.deps
+##   GCC:DEBUG_GCC5_IA32_ASM_FLAGS = -c -x assembler -imacros AutoGen.h -m32 -march=i386
+##   GCC:DEBUG_GCC5_IA32_CC_FLAGS = -g -Os -fshort-wchar -fno-builtin -fno-strict-aliasing -Wall -Werror -Wno-array-bounds -include AutoGen.h -fno-common -ffunction-sections -fdata-sections -DSTRING_ARRAY_NAME=$(BASE_NAME)Strings -m32 -march=i586 -malign-double -fno-stack-protector -D EFI32 -fno-asynchronous-unwind-tables -Wno-address -fno-pic -fno-pie -flto -Os
+##   GCC:DEBUG_GCC5_IA32_ASMLINK_FLAGS = /nologo /tiny
+##   GCC:DEBUG_GCC5_IA32_VFR_FLAGS = -l -n
+##   GCC:DEBUG_GCC5_IA32_ASLCC_FLAGS = -x c -fno-lto -m32
+##   GCC:DEBUG_GCC5_IA32_APP_FLAGS = 
+##   GCC:DEBUG_GCC5_IA32_NASM_FLAGS = -f elf32
+##   GCC:DEBUG_GCC5_IA32_OPTROM_FLAGS = -e
+##   GCC:DEBUG_GCC5_IA32_DTC_FLAGS = -H epapr
+##   GCC:DEBUG_GCC5_IA32_SYMRENAME_FLAGS = Symbol renaming not needed for
+##   GCC:DEBUG_GCC5_IA32_RC_FLAGS = -I binary -O elf32-i386          -B i386    --rename-section .data=.hii
+##   GCC:DEBUG_GCC5_IA32_PP_FLAGS = -E -x assembler-with-cpp -include AutoGen.h -DOPENSBI_EXTERNAL_SBI_TYPES=OpensbiTypes.h
+##   GCC:DEBUG_GCC5_IA32_VFRPP_FLAGS = -x c -E -P -DVFRCOMPILE --include $(MODULE_NAME)StrDefs.h
+##   GCC:DEBUG_GCC5_IA32_DLINK_FLAGS = -nostdlib -Wl,-n,-q,--gc-sections -z common-page-size=0x40 -Wl,--entry,$(IMAGE_ENTRY_POINT) -u $(IMAGE_ENTRY_POINT) -Wl,-Map,$(DEST_DIR_DEBUG)/$(BASE_NAME).map,--whole-archive -flto -Os -Wl,-m,elf_i386,--oformat=elf32-i386
+##   GCC:DEBUG_GCC5_IA32_ASL_FLAGS = 
+##   GCC:DEBUG_GCC5_IA32_NASMB_FLAGS = -f bin
+##   GCC:DEBUG_GCC5_IA32_DLINK2_FLAGS = -Wl,--defsym=PECOFF_HEADER_SIZE=0x220 -Wl,--script=$(EDK_TOOLS_PATH)/Scripts/GccBase.lds -Wno-error -no-pie

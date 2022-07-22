@@ -1,0 +1,19 @@
+
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/BmBoot.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/BmBootDescription.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/BmConnect.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/BmConsole.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/BmDriverHealth.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/BmHotkey.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/BmLoadOption.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/BmMisc.obj.deps
+
+               

@@ -1,0 +1,29 @@
+
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/Reclaim.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/SpeculationBarrierSmm.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/TcgMorLockSmm.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/VarCheck.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/Variable.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/VariableExLib.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/VariableLockRequestToLock.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/VariableNonVolatile.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/VariableParsing.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/VariableRuntimeCache.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/VariableSmm.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Universal/Variable/RuntimeDxe/VariableSmm/OUTPUT/VariableTraditionalMm.obj.deps
+
+               

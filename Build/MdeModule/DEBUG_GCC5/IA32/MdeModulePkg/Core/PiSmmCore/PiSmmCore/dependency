@@ -1,0 +1,33 @@
+
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Dependency.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Dispatcher.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Handle.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/HeapGuard.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/InstallConfigurationTable.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Locate.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/MemoryAttributesTable.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Notify.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Page.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/PiSmmCore.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Pool.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/Smi.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/SmiHandlerProfile.obj.deps
+
+-include /workspace/edk2/Build/MdeModule/DEBUG_GCC5/IA32/MdeModulePkg/Core/PiSmmCore/PiSmmCore/OUTPUT/SmramProfileRecord.obj.deps
+
+               
