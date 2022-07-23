@@ -10,13 +10,13 @@ UefiMain(
     )
 {
     EFI_STATUS Status = EFI_SUCCESS;
-    UINTN NoHandlers = 0;
+    UINTN NoHandles = 0;
     EFI_HANDLE *Buffer = NULL;
     Status = gBS->LocateHandleBuffer(
         ByProtocol,
         &gEfiGraphicsOutputProtocolGuid,
         NULL,
-        &NoHandlers,
+        &NoHandles,
         &Buffer
     );
 
@@ -26,6 +26,25 @@ UefiMain(
         Print(L"Failed to LocateHandleBuffer,\n");
         return Status;
     }
+
     Print(L"Hello, Protocol!\n");
+    Print(L"NoHandles = %d\n", NoHandles);
+    EFI_GRAPHICS_OUTPUT_PROTOCOL *Gop;
+    Status = gBS->OpenProtocol(
+        Buffer[0],
+        &gEfiGraphicsOutputProtocolGuid,
+        (VOID **)&Gop,
+        ImageHandle,
+        NULL,
+        EFI_OPEN_PROTOCOL_GET_PROTOCOL
+    );
+
+    Print(L"Status = %d\n", Status);
+
+    if(EFI_ERROR(Status))
+    {
+        Print(L"Failed to OpenProtocol.\n");
+        return Status;
+    }
     return Status;
 }
