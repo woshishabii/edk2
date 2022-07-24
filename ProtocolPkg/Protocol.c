@@ -93,5 +93,21 @@ UefiMain(
         return Status;
     }
 
+    Gop->Blt(
+        Gop,
+        NULL,
+        EfiBltVideoToVideo,
+        0,0,
+        200,200,
+        100,100,
+        0
+    );
+
+    if(EFI_ERROR(Status))
+    {
+        Print(L"Failed to Blt.\n");
+        return Status;
+    }
+
     return Status;
 }
