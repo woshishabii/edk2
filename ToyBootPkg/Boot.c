@@ -48,6 +48,15 @@ UefiMain(
     }
     #endif
 
+    EFI_FILE_PROTOCOL *Bin;
+    Status = GetFileHandle(ImageHandle,
+                           L"\\Kernel.bin",
+                           &Bin);
+    EFI_PHYSICAL_ADDRESS BinAddress;
+    Status = ReadFile(Bin, &BinAddress);
+
+    asm("jmp %0": : "m"(BinAddress));
+
     return Status;
 }
 
