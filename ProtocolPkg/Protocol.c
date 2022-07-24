@@ -68,7 +68,7 @@ UefiMain(
         Info->VerticalResolution);
     }
 
-    Status = Gop->SetMode(Gop, 22);
+    Status = Gop->SetMode(Gop, 20);
     if(EFI_ERROR(Status))
     {
         Print(L"Failed to SetMode.\n");
