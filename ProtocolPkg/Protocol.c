@@ -46,5 +46,27 @@ UefiMain(
         Print(L"Failed to OpenProtocol.\n");
         return Status;
     }
+
+    UINTN SizeOfInfo = 0;
+    EFI_GRAPHICS_OUTPUT_MODE_INFORMATION *Info;
+    for(UINTN i = 0; i < Gop->Mode->MaxMode; i++)
+    {
+        Status = Gop->QueryMode(
+            Gop,
+            i,
+            &SizeOfInfo,
+            &Info
+        );
+        if(EFI_ERROR(Status))
+        {
+            Print(L"Failed to QueryMode.\n");
+            return Status;
+        }
+        Print(L"Mode %d, H = %d, Y = %d.\n",
+        i,
+        Info->HorizontalResolution,
+        Info->VerticalResolution);
+    }
+
     return Status;
 }
