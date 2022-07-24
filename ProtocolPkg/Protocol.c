@@ -75,5 +75,23 @@ UefiMain(
         return Status;
     }
 
+    EFI_GRAPHICS_OUTPUT_BLT_PIXEL Red = {0, 0, 255, 0};
+
+    Gop->Blt(
+        Gop,
+        &Red,
+        EfiBltVideoFill,
+        0,0,
+        0,0,
+        100,100,
+        0
+    );
+
+    if(EFI_ERROR(Status))
+    {
+        Print(L"Failed to Blt.\n");
+        return Status;
+    }
+
     return Status;
 }
