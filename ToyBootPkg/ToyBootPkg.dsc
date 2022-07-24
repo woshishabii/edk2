@@ -20,5 +20,6 @@
     DevicePathLib|MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib.inf
     UefiRuntimeServicesTableLib|MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib.inf
     DebugPrintErrorLevelLib|MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib.inf
+    
 [Components]
     ToyBootPkg/ToyBoot.inf
