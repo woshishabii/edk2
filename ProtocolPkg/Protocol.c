@@ -109,5 +109,20 @@ UefiMain(
         return Status;
     }
 
+    EFI_GRAPHICS_OUTPUT_BLT_PIXEL Blue = {255, 0, 0, 0};
+
+    EFI_PHYSICAL_ADDRESS BlueStart = Gop->Mode->FrameBufferBase
+                                   + Gop->Mode->Info->PixelsPerScanLine * 100 * 4;
+
+    EFI_GRAPHICS_OUTPUT_BLT_PIXEL *VideoHandle = (EFI_GRAPHICS_OUTPUT_BLT_PIXEL*)BlueStart;
+
+    UINTN NoPixels = Gop->Mode->Info->PixelsPerScanLine * 100;
+
+    for(UINTN i = 0; i < NoPixels; i++)
+    {
+        *VideoHandle = Blue;
+        VideoHandle++;
+    }
+
     return Status;
 }
