@@ -1,5 +1,7 @@
 
 
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformDxe/Platform/DEBUG/PlatformForms.c.deps
+
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformDxe/Platform/OUTPUT/AutoGen.obj.deps
 
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformDxe/Platform/OUTPUT/Platform.obj.deps
@@ -7,7 +9,5 @@
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformDxe/Platform/OUTPUT/PlatformConfig.obj.deps
 
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformDxe/Platform/OUTPUT/PlatformForms.obj.deps
-
--include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/PlatformDxe/Platform/DEBUG/PlatformForms.c.deps
 
                

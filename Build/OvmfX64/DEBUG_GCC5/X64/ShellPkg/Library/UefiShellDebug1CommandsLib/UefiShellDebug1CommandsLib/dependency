@@ -1,15 +1,5 @@
 
 
--include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/SmbiosView/EventLogInfo.obj.deps
-
--include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/SmbiosView/LibSmbiosView.obj.deps
-
--include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/SmbiosView/PrintInfo.obj.deps
-
--include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/SmbiosView/QueryTable.obj.deps
-
--include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/SmbiosView/SmbiosView.obj.deps
-
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/Edit/Edit.obj.deps
 
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/Edit/FileBuffer.obj.deps
@@ -33,6 +23,16 @@
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/HexEdit/MemImage.obj.deps
 
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/HexEdit/Misc.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/SmbiosView/EventLogInfo.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/SmbiosView/LibSmbiosView.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/SmbiosView/PrintInfo.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/SmbiosView/QueryTable.obj.deps
+
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/SmbiosView/SmbiosView.obj.deps
 
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/ShellPkg/Library/UefiShellDebug1CommandsLib/UefiShellDebug1CommandsLib/OUTPUT/AutoGen.obj.deps
 

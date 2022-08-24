@@ -27,6 +27,7 @@
 
 [Binaries.X64]
   PE32|Shell.efi
+  BIN|ShellOffset.bin
 
 [PatchPcd.X64]
 

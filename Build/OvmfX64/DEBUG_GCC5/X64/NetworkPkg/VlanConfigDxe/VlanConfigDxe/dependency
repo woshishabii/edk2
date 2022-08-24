@@ -1,5 +1,7 @@
 
 
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/VlanConfigDxe/VlanConfigDxe/DEBUG/VlanConfig.c.deps
+
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/VlanConfigDxe/VlanConfigDxe/OUTPUT/AutoGen.obj.deps
 
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/VlanConfigDxe/VlanConfigDxe/OUTPUT/ComponentName.obj.deps
@@ -9,7 +11,5 @@
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/VlanConfigDxe/VlanConfigDxe/OUTPUT/VlanConfigDriver.obj.deps
 
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/VlanConfigDxe/VlanConfigDxe/OUTPUT/VlanConfigImpl.obj.deps
-
--include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/VlanConfigDxe/VlanConfigDxe/DEBUG/VlanConfig.c.deps
 
                

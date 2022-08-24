@@ -24,8 +24,29 @@
 
 [Binaries.X64]
   PE32|UiApp.efi
+  BIN|UiAppOffset.bin
 
 [PatchPcd.X64]
+  ## PRODUCES
+  ## CONSUMES
+  ## CONSUMES
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|0x00000019|0x21590
+
+  ## PRODUCES
+  ## CONSUMES
+  ## CONSUMES
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutColumn|0x00000050|0x21594
+
+  ## CONSUMES ## SOMETIMES_PRODUCES
+  ## CONSUMES ## SOMETIMES_PRODUCES
+  ## CONSUMES
+  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutColumn|0x00000050|0x23294
+
+  ## CONSUMES ## SOMETIMES_PRODUCES
+  ## CONSUMES ## SOMETIMES_PRODUCES
+  ## CONSUMES
+  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutRow|0x00000019|0x23290
+
 
 [Protocols.X64]
   ## CONSUMES

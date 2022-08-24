@@ -1,5 +1,7 @@
 
 
+-include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/Ip4Dxe/Ip4Dxe/DEBUG/Ip4Config2.c.deps
+
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/Ip4Dxe/Ip4Dxe/OUTPUT/AutoGen.obj.deps
 
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/Ip4Dxe/Ip4Dxe/OUTPUT/ComponentName.obj.deps
@@ -29,7 +31,5 @@
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/Ip4Dxe/Ip4Dxe/OUTPUT/Ip4Output.obj.deps
 
 -include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/Ip4Dxe/Ip4Dxe/OUTPUT/Ip4Route.obj.deps
-
--include /workspace/edk2/Build/OvmfX64/DEBUG_GCC5/X64/NetworkPkg/Ip4Dxe/Ip4Dxe/DEBUG/Ip4Config2.c.deps
 
                

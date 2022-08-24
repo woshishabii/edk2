@@ -29,6 +29,7 @@
 
 [Binaries.X64]
   PE32|IScsiDxe.efi
+  BIN|IScsiDxeOffset.bin
 
 [PatchPcd.X64]
 

@@ -37,6 +37,14 @@
   PE32|ConSplitterDxe.efi
 
 [PatchPcd.X64]
+  ## SOMETIMES_PRODUCES
+  ## SOMETIMES_CONSUMES
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|0x00000019|0x6F10
+
+  ## SOMETIMES_PRODUCES
+  ## SOMETIMES_CONSUMES
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutColumn|0x00000050|0x6F14
+
 
 [Protocols.X64]
   ## PRODUCES

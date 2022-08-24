@@ -30,6 +30,12 @@
   PE32|GraphicsConsoleDxe.efi
 
 [PatchPcd.X64]
+  ## SOMETIMES_CONSUMES
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|0x00000019|0x4420
+
+  ## SOMETIMES_CONSUMES
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutColumn|0x00000050|0x4424
+
 
 [Protocols.X64]
   ## SOMETIMES_CONSUMES
