@@ -28,21 +28,21 @@ extern EFI_GUID gEfiMdePkgTokenSpaceGuid;
 extern UINT64 _gPcd_SkuId_Array[];
 
 // PCD definitions
-#define _PCD_TOKEN_PcdDebugClearMemoryValue  4U
+#define _PCD_TOKEN_PcdDebugClearMemoryValue  2U
 extern const UINT8 _gPcd_FixedAtBuild_PcdDebugClearMemoryValue;
 #define _PCD_GET_MODE_8_PcdDebugClearMemoryValue  _gPcd_FixedAtBuild_PcdDebugClearMemoryValue
 //#define _PCD_SET_MODE_8_PcdDebugClearMemoryValue  ASSERT(FALSE)  // It is not allowed to set value for a FIXED_AT_BUILD PCD
 #define _PCD_VALUE_PcdDebugClearMemoryValue 0xAF
 #define _PCD_SIZE_PcdDebugClearMemoryValue 1
 #define _PCD_GET_MODE_SIZE_PcdDebugClearMemoryValue _PCD_SIZE_PcdDebugClearMemoryValue
-#define _PCD_TOKEN_PcdDebugPropertyMask  6U
+#define _PCD_TOKEN_PcdDebugPropertyMask  4U
 extern const UINT8 _gPcd_FixedAtBuild_PcdDebugPropertyMask;
 #define _PCD_GET_MODE_8_PcdDebugPropertyMask  _gPcd_FixedAtBuild_PcdDebugPropertyMask
 //#define _PCD_SET_MODE_8_PcdDebugPropertyMask  ASSERT(FALSE)  // It is not allowed to set value for a FIXED_AT_BUILD PCD
 #define _PCD_VALUE_PcdDebugPropertyMask 0
 #define _PCD_SIZE_PcdDebugPropertyMask 1
 #define _PCD_GET_MODE_SIZE_PcdDebugPropertyMask _PCD_SIZE_PcdDebugPropertyMask
-#define _PCD_TOKEN_PcdFixedDebugPrintErrorLevel  9U
+#define _PCD_TOKEN_PcdFixedDebugPrintErrorLevel  5U
 extern const UINT32 _gPcd_FixedAtBuild_PcdFixedDebugPrintErrorLevel;
 #define _PCD_GET_MODE_32_PcdFixedDebugPrintErrorLevel  _gPcd_FixedAtBuild_PcdFixedDebugPrintErrorLevel
 //#define _PCD_SET_MODE_32_PcdFixedDebugPrintErrorLevel  ASSERT(FALSE)  // It is not allowed to set value for a FIXED_AT_BUILD PCD
