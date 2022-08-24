@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PEI_DEPEX -o /workspace/edk2/Build/ArmVirtQemu-ARM/DEBUG_GCC5/FV/Ffs/2FD8B7AD-F8FA-4021-9FC0-0AA572147CDCCpuPei/2FD8B7AD-F8FA-4021-9FC0-0AA572147CDCSEC1.1.dpx /workspace/edk2/Build/ArmVirtQemu-ARM/DEBUG_GCC5/ARM/ArmPkg/Drivers/CpuPei/CpuPei/OUTPUT/CpuPei.depex

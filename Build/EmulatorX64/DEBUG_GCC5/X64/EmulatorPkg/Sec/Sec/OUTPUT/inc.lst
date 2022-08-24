@@ -1,0 +1,9 @@
+-I/workspace/edk2/EmulatorPkg/Sec/X64
+-I/workspace/edk2/EmulatorPkg/Sec
+-I/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/EmulatorPkg/Sec/Sec/DEBUG
+-I/workspace/edk2/MdePkg
+-I/workspace/edk2/MdePkg/Include
+-I/workspace/edk2/MdePkg/Test/UnitTest/Include
+-I/workspace/edk2/MdePkg/Include/X64
+-I/workspace/edk2/EmulatorPkg
+-I/workspace/edk2/EmulatorPkg/Include

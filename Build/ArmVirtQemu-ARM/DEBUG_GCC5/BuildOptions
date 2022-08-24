@@ -1,0 +1,4 @@
+gCommandLineDefines: {'ARCH': 'ARM'}
+BuildOptionPcd: []
+Active Platform: /workspace/edk2/ArmVirtPkg/ArmVirtQemu.dsc
+Flash Image Definition: /workspace/edk2/ArmVirtPkg/ArmVirtQemu.fdf

@@ -1,0 +1,15 @@
+-I/workspace/edk2/ArmPlatformPkg/PrePi/Arm
+-I/workspace/edk2/ArmPlatformPkg/PrePi
+-I/workspace/edk2/Build/ArmPlatform/DEBUG_GCC5/ARM/ArmPlatformPkg/PrePi/PeiUniCore/DEBUG
+-I/workspace/edk2/MdePkg
+-I/workspace/edk2/MdePkg/Include
+-I/workspace/edk2/MdePkg/Test/UnitTest/Include
+-I/workspace/edk2/MdePkg/Include/Arm
+-I/workspace/edk2/MdeModulePkg
+-I/workspace/edk2/MdeModulePkg/Include
+-I/workspace/edk2/EmbeddedPkg
+-I/workspace/edk2/EmbeddedPkg/Include
+-I/workspace/edk2/ArmPkg
+-I/workspace/edk2/ArmPkg/Include
+-I/workspace/edk2/ArmPlatformPkg
+-I/workspace/edk2/ArmPlatformPkg/Include

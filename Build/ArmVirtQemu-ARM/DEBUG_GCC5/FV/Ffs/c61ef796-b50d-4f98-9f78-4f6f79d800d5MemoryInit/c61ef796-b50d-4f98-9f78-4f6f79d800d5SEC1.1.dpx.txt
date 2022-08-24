@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PEI_DEPEX -o /workspace/edk2/Build/ArmVirtQemu-ARM/DEBUG_GCC5/FV/Ffs/c61ef796-b50d-4f98-9f78-4f6f79d800d5MemoryInit/c61ef796-b50d-4f98-9f78-4f6f79d800d5SEC1.1.dpx /workspace/edk2/Build/ArmVirtQemu-ARM/DEBUG_GCC5/ARM/ArmPlatformPkg/MemoryInitPei/MemoryInitPeim/OUTPUT/MemoryInit.depex

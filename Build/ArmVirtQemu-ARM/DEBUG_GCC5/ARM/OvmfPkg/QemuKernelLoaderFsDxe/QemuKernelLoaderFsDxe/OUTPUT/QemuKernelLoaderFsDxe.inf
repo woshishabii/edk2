@@ -1,0 +1,144 @@
+##  @file
+#  DXE driver to expose the 'kernel', 'initrd' and 'cmdline' blobs
+#  provided by QEMU as files in an abstract file system
+#
+#  Copyright (C) 2014-2016, Red Hat, Inc.
+#  Copyright (C) 2020, Arm, Limited.
+#
+#  SPDX-License-Identifier: BSD-2-Clause-Patent
+##
+
+# DO NOT EDIT
+# FILE auto-generated
+
+[Defines]
+  INF_VERSION                = 0x00010033
+  BASE_NAME                  = QemuKernelLoaderFsDxe
+  FILE_GUID                  = 806040ca-dad9-4978-a3b4-2d2ab0c8a48f
+  MODULE_TYPE                = DXE_DRIVER
+  VERSION_STRING             = 1.0
+  ENTRY_POINT                = QemuKernelLoaderFsDxeEntrypoint
+
+[Packages.ARM]
+  MdePkg/MdePkg.dec
+  OvmfPkg/OvmfPkg.dec
+  ArmVirtPkg/ArmVirtPkg.dec
+
+[Binaries.ARM]
+  PE32|QemuKernelLoaderFsDxe.efi
+  DXE_DEPEX|QemuKernelLoaderFsDxe.depex
+
+[PatchPcd.ARM]
+
+[Protocols.ARM]
+  ## SOMETIMES_CONSUMES
+  ## PRODUCES
+  gEfiDevicePathProtocolGuid
+
+  ## PRODUCES
+  gEfiLoadFile2ProtocolGuid
+
+  ## PRODUCES
+  gEfiSimpleFileSystemProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gPcdProtocolGuid
+
+  ## CONSUMES
+  gEfiPcdProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gGetPcdInfoProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiGetPcdInfoProtocolGuid
+
+  ## CONSUMES
+  gEfiDevicePathUtilitiesProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiDevicePathToTextProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiDevicePathFromTextProtocolGuid
+
+  ## CONSUMES
+  gFdtClientProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiLoadedImageProtocolGuid
+
+
+[Ppis.ARM]
+
+[Guids.ARM]
+  gEfiFileInfoGuid
+
+  gEfiFileSystemInfoGuid
+
+  gEfiFileSystemVolumeLabelInfoIdGuid
+
+  gQemuKernelLoaderFsMediaGuid
+
+  ## CONSUMES  ## SystemTable
+  gEfiHobListGuid
+
+  gEarlyPL011BaseAddressGuid
+
+
+[PcdEx.ARM]
+
+[LibraryClasses.ARM]
+## @LIB_INSTANCES
+#  MdePkg/Library/DxePcdLib/DxePcdLib.inf
+#  MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe.inf
+#  MdePkg/Library/BaseLib/BaseLib.inf
+#  MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicArmVirt.inf
+#  ArmVirtPkg/Library/ArmVirtDxeHobLib/ArmVirtDxeHobLib.inf
+#  ArmPlatformPkg/Library/PL011UartLib/PL011UartLib.inf
+#  MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib.inf
+#  MdePkg/Library/BasePrintLib/BasePrintLib.inf
+#  ArmVirtPkg/Library/FdtPL011SerialPortLib/FdtPL011SerialPortLib.inf
+#  MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort.inf
+#  MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib.inf
+#  MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib.inf
+#  MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol.inf
+#  ArmVirtPkg/Library/QemuFwCfgLib/QemuFwCfgLib.inf
+#  MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint.inf
+#  MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib.inf
+#  MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib.inf
+#  ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib.inf
+
+[Depex.ARM]
+#  (gEfiRealTimeClockArchProtocolGuid) AND (gEfiPcdProtocolGuid) AND (gEfiPcdProtocolGuid) AND (gEfiPcdProtocolGuid) AND (gEfiPcdProtocolGuid) AND (gEfiDevicePathUtilitiesProtocolGuid) AND (gEfiDevicePathUtilitiesProtocolGuid) AND (gEfiDevicePathUtilitiesProtocolGuid) AND (gEfiDevicePathUtilitiesProtocolGuid) AND (gFdtClientProtocolGuid) AND (gEfiBdsArchProtocolGuid AND gEfiCpuArchProtocolGuid AND gEfiMetronomeArchProtocolGuid AND gEfiMonotonicCounterArchProtocolGuid AND gEfiRealTimeClockArchProtocolGuid AND gEfiResetArchProtocolGuid AND gEfiRuntimeArchProtocolGuid AND gEfiSecurityArchProtocolGuid AND gEfiTimerArchProtocolGuid AND gEfiVariableWriteArchProtocolGuid AND gEfiVariableArchProtocolGuid AND gEfiWatchdogTimerArchProtocolGuid)
+
+
+
+
+
+[BuildOptions.ARM]
+## @AsBuilt
+##   GCC:DEBUG_GCC5_ARM_ASLPP_FLAGS = -x c -E -include AutoGen.h
+##   GCC:DEBUG_GCC5_ARM_ASLDLINK_FLAGS = -Wl,--emit-relocs -nostdlib -Wl,--gc-sections -u $(IMAGE_ENTRY_POINT) -Wl,-e,$(IMAGE_ENTRY_POINT),-Map,$(DEST_DIR_DEBUG)/$(BASE_NAME).map -z common-page-size=0x20 -Wl,--pic-veneer -Wl,--entry,ReferenceAcpiTable -u $(IMAGE_ENTRY_POINT) -Wl,--defsym=PECOFF_HEADER_SIZE=0 -Wl,--script=$(EDK_TOOLS_PATH)/Scripts/GccBase.lds -z common-page-size=0x20 -Wl,--oformat=elf32-littlearm
+##   GCC:DEBUG_GCC5_ARM_GENFW_FLAGS = 
+##   GCC:DEBUG_GCC5_ARM_OBJCOPY_FLAGS = objcopy not needed for
+##   GCC:DEBUG_GCC5_ARM_DEPS_FLAGS = -MMD -MF $@.deps
+##   GCC:DEBUG_GCC5_ARM_ASM_FLAGS = $(ARCHASM_FLAGS) $(PLATFORM_FLAGS) -c -x assembler -imacros AutoGen.h -mlittle-endian
+##   GCC:DEBUG_GCC5_ARM_CC_FLAGS = $(ARCHCC_FLAGS) $(PLATFORM_FLAGS) -g -Os -fshort-wchar -fno-builtin -fno-strict-aliasing -Wall -Werror -Wno-array-bounds -include AutoGen.h -fno-common -mlittle-endian -mabi=aapcs -fno-short-enums -funsigned-char -ffunction-sections -fdata-sections -fomit-frame-pointer -Wno-address -mthumb -mfloat-abi=soft -fno-pic -fno-pie -fstack-protector -mword-relocations -flto -Wno-unused-but-set-variable -Wno-unused-const-variable -DDISABLE_NEW_DEPRECATED_INTERFACES -D ENABLE_MD5_DEPRECATED_INTERFACES
+##   GCC:DEBUG_GCC5_ARM_ASMLINK_FLAGS = /nologo /tiny
+##   GCC:DEBUG_GCC5_ARM_VFR_FLAGS = -l -n
+##   GCC:DEBUG_GCC5_ARM_ASLCC_FLAGS = -x c -fno-lto
+##   GCC:DEBUG_GCC5_ARM_APP_FLAGS = 
+##   GCC:DEBUG_GCC5_ARM_OPTROM_FLAGS = -e
+##   GCC:DEBUG_GCC5_ARM_DTC_FLAGS = -H epapr
+##   GCC:DEBUG_GCC5_ARM_SYMRENAME_FLAGS = Symbol renaming not needed for
+##   GCC:DEBUG_GCC5_ARM_RC_FLAGS = -I binary -O elf32-littlearm     -B arm     --rename-section .data=.hii
+##   GCC:DEBUG_GCC5_ARM_PP_FLAGS = $(ARCHCC_FLAGS) $(PLATFORM_FLAGS) -E -x assembler-with-cpp -include AutoGen.h -DOPENSBI_EXTERNAL_SBI_TYPES=OpensbiTypes.h
+##   GCC:DEBUG_GCC5_ARM_VFRPP_FLAGS = $(ARCHCC_FLAGS) $(PLATFORM_FLAGS) -x c -E -P -DVFRCOMPILE --include $(MODULE_NAME)StrDefs.h
+##   GCC:DEBUG_GCC5_ARM_DLINK_FLAGS = -Wl,--emit-relocs -nostdlib -Wl,--gc-sections -u $(IMAGE_ENTRY_POINT) -Wl,-e,$(IMAGE_ENTRY_POINT),-Map,$(DEST_DIR_DEBUG)/$(BASE_NAME).map -z common-page-size=0x20 -Wl,--pic-veneer -Wl,--oformat=elf32-littlearm -flto -Os -L/workspace/edk2/ArmPkg/Library/GccLto -llto-arm -Wl,-plugin-opt=-pass-through=-llto-arm -z common-page-size=0x1000
+##   GCC:DEBUG_GCC5_ARM_PLATFORM_FLAGS = -march=armv7-a
+##   GCC:DEBUG_GCC5_ARM_ASL_FLAGS = 
+##   GCC:DEBUG_GCC5_ARM_ARCHCC_FLAGS = -mthumb
+##   GCC:DEBUG_GCC5_ARM_NASMB_FLAGS = -f bin
+##   GCC:DEBUG_GCC5_ARM_DLINK2_FLAGS = -Wl,--script=$(EDK_TOOLS_PATH)/Scripts/GccBase.lds -Wl,--defsym=PECOFF_HEADER_SIZE=0x220 -Wno-error
+##   GCC:DEBUG_GCC5_ARM_DTCPP_FLAGS = -E -x assembler-with-cpp -imacros AutoGen.h -nostdinc -undef

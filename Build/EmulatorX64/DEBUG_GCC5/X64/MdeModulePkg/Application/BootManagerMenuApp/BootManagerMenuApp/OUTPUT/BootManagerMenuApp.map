@@ -1,0 +1,2867 @@
+Archive member included to satisfy reference by file (symbol)
+
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Application/BootManagerMenuApp/BootManagerMenuApp/OUTPUT/BootManagerMenuApp.lib(BootManagerMenu.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Application/BootManagerMenuApp/BootManagerMenuApp/OUTPUT/BootManagerMenuApp.lib(AutoGen.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/DxeReportStatusCodeLib/DxeReportStatusCodeLib/OUTPUT/DxeReportStatusCodeLib.lib(ReportStatusCodeLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Lfence.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86PatchInstruction.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86SpeculationBarrier.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInlinePriv.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(XGetBv.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(VmgExit.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib(DxePcdLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/PeiDxeDebugLibReportStatusCode/PeiDxeDebugLibReportStatusCode/OUTPUT/PeiDxeDebugLibReportStatusCode.lib(DebugLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Acpi.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib(UefiHiiServicesLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSortLib/BaseSortLib/OUTPUT/BaseSortLib.lib(BaseSortLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib(DxeServicesLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib(Allocate.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib/OUTPUT/DxeServicesTableLib.lib(DxeServicesTableLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib(PeCoffGetEntryPoint.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib(PerformanceLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLib.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiString.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLanguage.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmConnect.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmMisc.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmConsole.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmBoot.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmBootDescription.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmLoadOption.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmHotkey.obj)
+                              (--whole-archive)
+/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmDriverHealth.obj)
+                              (--whole-archive)
+
+Merging program properties
+
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (0x3) and /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj) (not found)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccaKqq50.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cchlcSa3.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccSAle91.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccb6KnkZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccL33032.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccaljvP0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc3NF3GZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccdLYjT1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccJbSVv2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccHseBt2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cclttFg1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccGyCAS2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc0hS9x2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc9rLgMY.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccIeUTZY.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccg7UIn1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccJr2MV1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccA0tnc1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccL0EJ82.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cccXrZ3Z.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc5C2bx2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccerylIZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccJUEbqZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccPcKKQ0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccgaKT51.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cce7DA60.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccrrd3M2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccPc3q3Y.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccJisFE1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccJFvWG1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccsFXaM0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccxKqf5Z.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccAkTox2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccFmmDC1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccWK95i3.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccAWUYc2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc4BwdxZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccQmgCk1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc5HbBYZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccn5b1s2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccDFVcU2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cco0YxJ1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccWYc8K2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccgu9Ig0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cctkVcNZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccpdRfK0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc0gvdy1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccAU0SKZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc3k8Nm1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc6qMg32.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccPBjSU1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccbKAi8Y.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cckxHmGZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccUv9OU1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccwHtb61.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccrK6MX0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccDMi980.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cchzVvk1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccADs6PY.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cceCbrW2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cclKTdC2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccP0wfs0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cceZsXz2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccXd2x5Z.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cczinb41.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccbYOtWZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cctW2dO1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccSxhag1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cceW8gfZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccvym7H0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccRuYI52.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccZAoRF0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc3QQkv2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccLg3Ta2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccg8cx8Z.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cco3Koy2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cck25fd3.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc43ELOY.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccpaHfd3.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccGgtpK1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccanmBSZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccB07bv0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc1GisMY.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc67mjB1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccKQgGn1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccNSiNt2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccvwR9f2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc3I2pMY.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccPFUFY0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccRcKko0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccGtV1K0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc2AM3WZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cctVArQ2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccXvjUY0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccHltxX2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cczL6BAZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccuE94R0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc6ouvX2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccgXVyK1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccbeKNq0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccAYy57Z.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccigge4Y.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccxF2mh3.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccNwRFv2.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc6rkxEZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccbXaWM0.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccsheZzZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cck05lmZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccRuzeM1.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cchT7JJY.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccWMox00.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccOeh8RZ.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/ccM2oa4Y.debug.temp.o (0x3)
+Removed property 0xc0000002 to merge /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o (not found) and /tmp/cc3nwW52.debug.temp.o (0x3)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.LogPerformanceMeasurementEnabled.constprop.0
+                0x0000000000000000        0x3 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmEndOfBdsPerfCode
+                0x0000000000000000        0x5 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.IsNodeInList.str1.1
+                0x0000000000000000       0x44 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.IsNodeInList
+                0x0000000000000000       0x79 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.InternalAssertJumpBuffer.str1.1
+                0x0000000000000000       0x6f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000       0x33 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmCollectLoadOptions.str1.1
+                0x0000000000000000       0x1f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmCollectLoadOptions
+                0x0000000000000000      0x13e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdResetOnMemoryTypeInformationChange
+                0x0000000000000000        0x1 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata._gUefiDriverRevision
+                0x0000000000000000        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdFixedDebugPrintErrorLevel
+                0x0000000000000000        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdReportStatusCodePropertyMask
+                0x0000000000000000        0x1 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdDebugPropertyMask
+                0x0000000000000000        0x1 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x2c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdControlFlowEnforcementPropertyMask
+                0x0000000000000000        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x2c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x2c /tmp/ccaKqq50.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccaKqq50.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccaKqq50.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cchlcSa3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cchlcSa3.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cchlcSa3.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccSAle91.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccSAle91.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccSAle91.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccb6KnkZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccb6KnkZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccb6KnkZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccL33032.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccL33032.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccL33032.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccaljvP0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccaljvP0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccaljvP0.debug.temp.o
+ .debug_info    0x0000000000000000     0x45d4 /tmp/cc3NF3GZ.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x2b0 /tmp/cc3NF3GZ.debug.temp.o
+ .debug_line    0x0000000000000000      0x355 /tmp/cc3NF3GZ.debug.temp.o
+ .debug_str     0x0000000000000000     0x2ef3 /tmp/cc3NF3GZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc3NF3GZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc3NF3GZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc3NF3GZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccdLYjT1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccdLYjT1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccdLYjT1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccJbSVv2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJbSVv2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccJbSVv2.debug.temp.o
+ .debug_info    0x0000000000000000      0x191 /tmp/ccHseBt2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb8 /tmp/ccHseBt2.debug.temp.o
+ .debug_line    0x0000000000000000      0x12f /tmp/ccHseBt2.debug.temp.o
+ .debug_str     0x0000000000000000      0x30f /tmp/ccHseBt2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccHseBt2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccHseBt2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccHseBt2.debug.temp.o
+ .debug_info    0x0000000000000000      0x191 /tmp/cclttFg1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb8 /tmp/cclttFg1.debug.temp.o
+ .debug_line    0x0000000000000000      0x12f /tmp/cclttFg1.debug.temp.o
+ .debug_str     0x0000000000000000      0x30f /tmp/cclttFg1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cclttFg1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cclttFg1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cclttFg1.debug.temp.o
+ .debug_info    0x0000000000000000      0x191 /tmp/ccGyCAS2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb8 /tmp/ccGyCAS2.debug.temp.o
+ .debug_line    0x0000000000000000      0x12f /tmp/ccGyCAS2.debug.temp.o
+ .debug_str     0x0000000000000000      0x30f /tmp/ccGyCAS2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccGyCAS2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccGyCAS2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccGyCAS2.debug.temp.o
+ .debug_info    0x0000000000000000      0x1c2 /tmp/cc0hS9x2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xcb /tmp/cc0hS9x2.debug.temp.o
+ .debug_line    0x0000000000000000      0x12e /tmp/cc0hS9x2.debug.temp.o
+ .debug_str     0x0000000000000000      0x316 /tmp/cc0hS9x2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc0hS9x2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc0hS9x2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc0hS9x2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc9rLgMY.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc9rLgMY.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc9rLgMY.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccIeUTZY.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccIeUTZY.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccIeUTZY.debug.temp.o
+ .debug_info    0x0000000000000000      0x186 /tmp/ccg7UIn1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccg7UIn1.debug.temp.o
+ .debug_line    0x0000000000000000      0x12e /tmp/ccg7UIn1.debug.temp.o
+ .debug_str     0x0000000000000000      0x30d /tmp/ccg7UIn1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccg7UIn1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccg7UIn1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccg7UIn1.debug.temp.o
+ .debug_info    0x0000000000000000      0x186 /tmp/ccJr2MV1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccJr2MV1.debug.temp.o
+ .debug_line    0x0000000000000000      0x12e /tmp/ccJr2MV1.debug.temp.o
+ .debug_str     0x0000000000000000      0x30d /tmp/ccJr2MV1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccJr2MV1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJr2MV1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccJr2MV1.debug.temp.o
+ .debug_info    0x0000000000000000      0x186 /tmp/ccA0tnc1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccA0tnc1.debug.temp.o
+ .debug_line    0x0000000000000000      0x12e /tmp/ccA0tnc1.debug.temp.o
+ .debug_str     0x0000000000000000      0x30d /tmp/ccA0tnc1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccA0tnc1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccA0tnc1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccA0tnc1.debug.temp.o
+ .debug_info    0x0000000000000000      0x1bb /tmp/ccL0EJ82.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc6 /tmp/ccL0EJ82.debug.temp.o
+ .debug_line    0x0000000000000000      0x12c /tmp/ccL0EJ82.debug.temp.o
+ .debug_str     0x0000000000000000      0x311 /tmp/ccL0EJ82.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccL0EJ82.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccL0EJ82.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccL0EJ82.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cccXrZ3Z.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cccXrZ3Z.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cccXrZ3Z.debug.temp.o
+ .debug_info    0x0000000000000000      0x183 /tmp/cc5C2bx2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/cc5C2bx2.debug.temp.o
+ .debug_line    0x0000000000000000      0x132 /tmp/cc5C2bx2.debug.temp.o
+ .debug_str     0x0000000000000000      0x30f /tmp/cc5C2bx2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc5C2bx2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc5C2bx2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc5C2bx2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccerylIZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccerylIZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccerylIZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccJUEbqZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJUEbqZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccJUEbqZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccPcKKQ0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccPcKKQ0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccPcKKQ0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccgaKT51.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccgaKT51.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccgaKT51.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cce7DA60.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cce7DA60.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cce7DA60.debug.temp.o
+ .debug_info    0x0000000000000000      0x457 /tmp/ccrrd3M2.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x13e /tmp/ccrrd3M2.debug.temp.o
+ .debug_line    0x0000000000000000      0x115 /tmp/ccrrd3M2.debug.temp.o
+ .debug_str     0x0000000000000000      0x4d7 /tmp/ccrrd3M2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccrrd3M2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrrd3M2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccrrd3M2.debug.temp.o
+ .debug_info    0x0000000000000000      0x238 /tmp/ccPc3q3Y.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xf4 /tmp/ccPc3q3Y.debug.temp.o
+ .debug_line    0x0000000000000000      0x14c /tmp/ccPc3q3Y.debug.temp.o
+ .debug_str     0x0000000000000000      0x47d /tmp/ccPc3q3Y.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccPc3q3Y.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccPc3q3Y.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccPc3q3Y.debug.temp.o
+ .debug_info    0x0000000000000000      0x1c3 /tmp/ccJisFE1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccJisFE1.debug.temp.o
+ .debug_line    0x0000000000000000      0x118 /tmp/ccJisFE1.debug.temp.o
+ .debug_str     0x0000000000000000      0x41a /tmp/ccJisFE1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccJisFE1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJisFE1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccJisFE1.debug.temp.o
+ .debug_info    0x0000000000000000      0x1db /tmp/ccJFvWG1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/ccJFvWG1.debug.temp.o
+ .debug_line    0x0000000000000000      0x118 /tmp/ccJFvWG1.debug.temp.o
+ .debug_str     0x0000000000000000      0x431 /tmp/ccJFvWG1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccJFvWG1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJFvWG1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccJFvWG1.debug.temp.o
+ .debug_info    0x0000000000000000      0x1c3 /tmp/ccsFXaM0.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccsFXaM0.debug.temp.o
+ .debug_line    0x0000000000000000      0x118 /tmp/ccsFXaM0.debug.temp.o
+ .debug_str     0x0000000000000000      0x41a /tmp/ccsFXaM0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccsFXaM0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccsFXaM0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccsFXaM0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccxKqf5Z.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccxKqf5Z.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccxKqf5Z.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccAkTox2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccAkTox2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccAkTox2.debug.temp.o
+ .debug_info    0x0000000000000000      0x1db /tmp/ccFmmDC1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccFmmDC1.debug.temp.o
+ .debug_line    0x0000000000000000      0x116 /tmp/ccFmmDC1.debug.temp.o
+ .debug_str     0x0000000000000000      0x424 /tmp/ccFmmDC1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccFmmDC1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccFmmDC1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccFmmDC1.debug.temp.o
+ .debug_info    0x0000000000000000      0x1db /tmp/ccWK95i3.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccWK95i3.debug.temp.o
+ .debug_line    0x0000000000000000      0x114 /tmp/ccWK95i3.debug.temp.o
+ .debug_str     0x0000000000000000      0x420 /tmp/ccWK95i3.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccWK95i3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccWK95i3.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccWK95i3.debug.temp.o
+ .debug_info    0x0000000000000000      0x1db /tmp/ccAWUYc2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccAWUYc2.debug.temp.o
+ .debug_line    0x0000000000000000      0x114 /tmp/ccAWUYc2.debug.temp.o
+ .debug_str     0x0000000000000000      0x420 /tmp/ccAWUYc2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccAWUYc2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccAWUYc2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccAWUYc2.debug.temp.o
+ .debug_info    0x0000000000000000      0x1db /tmp/cc4BwdxZ.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/cc4BwdxZ.debug.temp.o
+ .debug_line    0x0000000000000000      0x117 /tmp/cc4BwdxZ.debug.temp.o
+ .debug_str     0x0000000000000000      0x431 /tmp/cc4BwdxZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc4BwdxZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc4BwdxZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc4BwdxZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccQmgCk1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccQmgCk1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccQmgCk1.debug.temp.o
+ .debug_info    0x0000000000000000      0x1db /tmp/cc5HbBYZ.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/cc5HbBYZ.debug.temp.o
+ .debug_line    0x0000000000000000      0x117 /tmp/cc5HbBYZ.debug.temp.o
+ .debug_str     0x0000000000000000      0x430 /tmp/cc5HbBYZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc5HbBYZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc5HbBYZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc5HbBYZ.debug.temp.o
+ .debug_info    0x0000000000000000      0x1cf /tmp/ccn5b1s2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccn5b1s2.debug.temp.o
+ .debug_line    0x0000000000000000      0x116 /tmp/ccn5b1s2.debug.temp.o
+ .debug_str     0x0000000000000000      0x421 /tmp/ccn5b1s2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccn5b1s2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccn5b1s2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccn5b1s2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccDFVcU2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccDFVcU2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccDFVcU2.debug.temp.o
+ .debug_info    0x0000000000000000      0x1db /tmp/cco0YxJ1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/cco0YxJ1.debug.temp.o
+ .debug_line    0x0000000000000000      0x114 /tmp/cco0YxJ1.debug.temp.o
+ .debug_str     0x0000000000000000      0x420 /tmp/cco0YxJ1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cco0YxJ1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cco0YxJ1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cco0YxJ1.debug.temp.o
+ .debug_info    0x0000000000000000      0x1db /tmp/ccWYc8K2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccWYc8K2.debug.temp.o
+ .debug_line    0x0000000000000000      0x114 /tmp/ccWYc8K2.debug.temp.o
+ .debug_str     0x0000000000000000      0x420 /tmp/ccWYc8K2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccWYc8K2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccWYc8K2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccWYc8K2.debug.temp.o
+ .debug_info    0x0000000000000000      0x1e7 /tmp/ccgu9Ig0.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/ccgu9Ig0.debug.temp.o
+ .debug_line    0x0000000000000000      0x118 /tmp/ccgu9Ig0.debug.temp.o
+ .debug_str     0x0000000000000000      0x430 /tmp/ccgu9Ig0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccgu9Ig0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccgu9Ig0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccgu9Ig0.debug.temp.o
+ .debug_info    0x0000000000000000      0x1e7 /tmp/cctkVcNZ.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/cctkVcNZ.debug.temp.o
+ .debug_line    0x0000000000000000      0x118 /tmp/cctkVcNZ.debug.temp.o
+ .debug_str     0x0000000000000000      0x430 /tmp/cctkVcNZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cctkVcNZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cctkVcNZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cctkVcNZ.debug.temp.o
+ .debug_info    0x0000000000000000      0x1db /tmp/ccpdRfK0.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccpdRfK0.debug.temp.o
+ .debug_line    0x0000000000000000      0x119 /tmp/ccpdRfK0.debug.temp.o
+ .debug_str     0x0000000000000000      0x429 /tmp/ccpdRfK0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccpdRfK0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpdRfK0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccpdRfK0.debug.temp.o
+ .debug_info    0x0000000000000000      0x1f3 /tmp/cc0gvdy1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/cc0gvdy1.debug.temp.o
+ .debug_line    0x0000000000000000      0x119 /tmp/cc0gvdy1.debug.temp.o
+ .debug_str     0x0000000000000000      0x438 /tmp/cc0gvdy1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc0gvdy1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc0gvdy1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc0gvdy1.debug.temp.o
+ .debug_info    0x0000000000000000      0x1cf /tmp/ccAU0SKZ.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccAU0SKZ.debug.temp.o
+ .debug_line    0x0000000000000000      0x11c /tmp/ccAU0SKZ.debug.temp.o
+ .debug_str     0x0000000000000000      0x42a /tmp/ccAU0SKZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccAU0SKZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccAU0SKZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccAU0SKZ.debug.temp.o
+ .debug_info    0x0000000000000000      0x1c3 /tmp/cc3k8Nm1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/cc3k8Nm1.debug.temp.o
+ .debug_line    0x0000000000000000      0x11c /tmp/cc3k8Nm1.debug.temp.o
+ .debug_str     0x0000000000000000      0x424 /tmp/cc3k8Nm1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc3k8Nm1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc3k8Nm1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc3k8Nm1.debug.temp.o
+ .debug_info    0x0000000000000000      0x1e5 /tmp/cc6qMg32.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb3 /tmp/cc6qMg32.debug.temp.o
+ .debug_line    0x0000000000000000      0x11f /tmp/cc6qMg32.debug.temp.o
+ .debug_str     0x0000000000000000      0x43d /tmp/cc6qMg32.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc6qMg32.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc6qMg32.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc6qMg32.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccPBjSU1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccPBjSU1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccPBjSU1.debug.temp.o
+ .debug_info    0x0000000000000000      0x1cf /tmp/ccbKAi8Y.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccbKAi8Y.debug.temp.o
+ .debug_line    0x0000000000000000      0x116 /tmp/ccbKAi8Y.debug.temp.o
+ .debug_str     0x0000000000000000      0x421 /tmp/ccbKAi8Y.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccbKAi8Y.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccbKAi8Y.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccbKAi8Y.debug.temp.o
+ .debug_info    0x0000000000000000      0x1f1 /tmp/cckxHmGZ.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb3 /tmp/cckxHmGZ.debug.temp.o
+ .debug_line    0x0000000000000000      0x11f /tmp/cckxHmGZ.debug.temp.o
+ .debug_str     0x0000000000000000      0x443 /tmp/cckxHmGZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cckxHmGZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cckxHmGZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cckxHmGZ.debug.temp.o
+ .debug_info    0x0000000000000000      0x1db /tmp/ccUv9OU1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb1 /tmp/ccUv9OU1.debug.temp.o
+ .debug_line    0x0000000000000000      0x117 /tmp/ccUv9OU1.debug.temp.o
+ .debug_str     0x0000000000000000      0x426 /tmp/ccUv9OU1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccUv9OU1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccUv9OU1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccUv9OU1.debug.temp.o
+ .debug_info    0x0000000000000000      0x89f /tmp/ccwHtb61.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xf9 /tmp/ccwHtb61.debug.temp.o
+ .debug_line    0x0000000000000000      0x115 /tmp/ccwHtb61.debug.temp.o
+ .debug_str     0x0000000000000000      0x60d /tmp/ccwHtb61.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccwHtb61.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccwHtb61.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccwHtb61.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccrK6MX0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccrK6MX0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccrK6MX0.debug.temp.o
+ .debug_info    0x0000000000000000      0x1e0 /tmp/ccDMi980.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xd5 /tmp/ccDMi980.debug.temp.o
+ .debug_line    0x0000000000000000      0x110 /tmp/ccDMi980.debug.temp.o
+ .debug_str     0x0000000000000000      0x43a /tmp/ccDMi980.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccDMi980.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccDMi980.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccDMi980.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cchzVvk1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cchzVvk1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cchzVvk1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccADs6PY.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccADs6PY.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccADs6PY.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cceCbrW2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cceCbrW2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cceCbrW2.debug.temp.o
+ .debug_info    0x0000000000000000      0x216 /tmp/cclKTdC2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xd5 /tmp/cclKTdC2.debug.temp.o
+ .debug_line    0x0000000000000000      0x116 /tmp/cclKTdC2.debug.temp.o
+ .debug_str     0x0000000000000000      0x458 /tmp/cclKTdC2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cclKTdC2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cclKTdC2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cclKTdC2.debug.temp.o
+ .debug_info    0x0000000000000000      0x28d /tmp/ccP0wfs0.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xf7 /tmp/ccP0wfs0.debug.temp.o
+ .debug_line    0x0000000000000000      0x151 /tmp/ccP0wfs0.debug.temp.o
+ .debug_str     0x0000000000000000      0x49b /tmp/ccP0wfs0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccP0wfs0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccP0wfs0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccP0wfs0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cceZsXz2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cceZsXz2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cceZsXz2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccXd2x5Z.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccXd2x5Z.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccXd2x5Z.debug.temp.o
+ .debug_info    0x0000000000000000      0x20e /tmp/cczinb41.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xe0 /tmp/cczinb41.debug.temp.o
+ .debug_line    0x0000000000000000      0x14d /tmp/cczinb41.debug.temp.o
+ .debug_str     0x0000000000000000      0x43c /tmp/cczinb41.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cczinb41.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cczinb41.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cczinb41.debug.temp.o
+ .debug_info    0x0000000000000000      0x20e /tmp/ccbYOtWZ.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xe0 /tmp/ccbYOtWZ.debug.temp.o
+ .debug_line    0x0000000000000000      0x14d /tmp/ccbYOtWZ.debug.temp.o
+ .debug_str     0x0000000000000000      0x43c /tmp/ccbYOtWZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccbYOtWZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccbYOtWZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccbYOtWZ.debug.temp.o
+ .debug_info    0x0000000000000000      0x8b8 /tmp/cctW2dO1.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x184 /tmp/cctW2dO1.debug.temp.o
+ .debug_line    0x0000000000000000      0x149 /tmp/cctW2dO1.debug.temp.o
+ .debug_str     0x0000000000000000      0x650 /tmp/cctW2dO1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cctW2dO1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cctW2dO1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cctW2dO1.debug.temp.o
+ .debug_info    0x0000000000000000      0x209 /tmp/ccSxhag1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xe0 /tmp/ccSxhag1.debug.temp.o
+ .debug_line    0x0000000000000000      0x14c /tmp/ccSxhag1.debug.temp.o
+ .debug_str     0x0000000000000000      0x43a /tmp/ccSxhag1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccSxhag1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccSxhag1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccSxhag1.debug.temp.o
+ .debug_info    0x0000000000000000      0x209 /tmp/cceW8gfZ.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xe0 /tmp/cceW8gfZ.debug.temp.o
+ .debug_line    0x0000000000000000      0x14c /tmp/cceW8gfZ.debug.temp.o
+ .debug_str     0x0000000000000000      0x43a /tmp/cceW8gfZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cceW8gfZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cceW8gfZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cceW8gfZ.debug.temp.o
+ .debug_info    0x0000000000000000      0x5c2 /tmp/ccvym7H0.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xea /tmp/ccvym7H0.debug.temp.o
+ .debug_line    0x0000000000000000      0x113 /tmp/ccvym7H0.debug.temp.o
+ .debug_str     0x0000000000000000      0x579 /tmp/ccvym7H0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccvym7H0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvym7H0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccvym7H0.debug.temp.o
+ .debug_info    0x0000000000000000      0x374 /tmp/ccRuYI52.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x11b /tmp/ccRuYI52.debug.temp.o
+ .debug_line    0x0000000000000000      0x155 /tmp/ccRuYI52.debug.temp.o
+ .debug_str     0x0000000000000000      0x485 /tmp/ccRuYI52.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccRuYI52.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccRuYI52.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccRuYI52.debug.temp.o
+ .debug_info    0x0000000000000000      0x20d /tmp/ccZAoRF0.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xe9 /tmp/ccZAoRF0.debug.temp.o
+ .debug_line    0x0000000000000000      0x14a /tmp/ccZAoRF0.debug.temp.o
+ .debug_str     0x0000000000000000      0x42c /tmp/ccZAoRF0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccZAoRF0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZAoRF0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccZAoRF0.debug.temp.o
+ .debug_info    0x0000000000000000      0x212 /tmp/cc3QQkv2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xe9 /tmp/cc3QQkv2.debug.temp.o
+ .debug_line    0x0000000000000000      0x14d /tmp/cc3QQkv2.debug.temp.o
+ .debug_str     0x0000000000000000      0x432 /tmp/cc3QQkv2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc3QQkv2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc3QQkv2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc3QQkv2.debug.temp.o
+ .debug_info    0x0000000000000000      0x1ee /tmp/ccLg3Ta2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xbe /tmp/ccLg3Ta2.debug.temp.o
+ .debug_line    0x0000000000000000      0x11e /tmp/ccLg3Ta2.debug.temp.o
+ .debug_str     0x0000000000000000      0x446 /tmp/ccLg3Ta2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccLg3Ta2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccLg3Ta2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccLg3Ta2.debug.temp.o
+ .debug_info    0x0000000000000000      0x208 /tmp/ccg8cx8Z.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xd5 /tmp/ccg8cx8Z.debug.temp.o
+ .debug_line    0x0000000000000000      0x152 /tmp/ccg8cx8Z.debug.temp.o
+ .debug_str     0x0000000000000000      0x45f /tmp/ccg8cx8Z.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccg8cx8Z.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccg8cx8Z.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccg8cx8Z.debug.temp.o
+ .debug_info    0x0000000000000000      0x1ee /tmp/cco3Koy2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xbe /tmp/cco3Koy2.debug.temp.o
+ .debug_line    0x0000000000000000      0x11f /tmp/cco3Koy2.debug.temp.o
+ .debug_str     0x0000000000000000      0x448 /tmp/cco3Koy2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cco3Koy2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cco3Koy2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cco3Koy2.debug.temp.o
+ .debug_info    0x0000000000000000      0x208 /tmp/cck25fd3.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xd5 /tmp/cck25fd3.debug.temp.o
+ .debug_line    0x0000000000000000      0x153 /tmp/cck25fd3.debug.temp.o
+ .debug_str     0x0000000000000000      0x461 /tmp/cck25fd3.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cck25fd3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cck25fd3.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cck25fd3.debug.temp.o
+ .debug_info    0x0000000000000000      0x213 /tmp/cc43ELOY.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xb3 /tmp/cc43ELOY.debug.temp.o
+ .debug_line    0x0000000000000000      0x116 /tmp/cc43ELOY.debug.temp.o
+ .debug_str     0x0000000000000000      0x42f /tmp/cc43ELOY.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc43ELOY.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc43ELOY.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc43ELOY.debug.temp.o
+ .debug_info    0x0000000000000000      0x1fb /tmp/ccpaHfd3.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc7 /tmp/ccpaHfd3.debug.temp.o
+ .debug_line    0x0000000000000000      0x154 /tmp/ccpaHfd3.debug.temp.o
+ .debug_str     0x0000000000000000      0x467 /tmp/ccpaHfd3.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccpaHfd3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpaHfd3.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccpaHfd3.debug.temp.o
+ .debug_info    0x0000000000000000      0x1b2 /tmp/ccGgtpK1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xa0 /tmp/ccGgtpK1.debug.temp.o
+ .debug_line    0x0000000000000000      0x122 /tmp/ccGgtpK1.debug.temp.o
+ .debug_str     0x0000000000000000      0x425 /tmp/ccGgtpK1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccGgtpK1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccGgtpK1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccGgtpK1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccanmBSZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccanmBSZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccanmBSZ.debug.temp.o
+ .debug_info    0x0000000000000000      0x7af /tmp/ccB07bv0.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x17e /tmp/ccB07bv0.debug.temp.o
+ .debug_line    0x0000000000000000      0x152 /tmp/ccB07bv0.debug.temp.o
+ .debug_str     0x0000000000000000      0x6bb /tmp/ccB07bv0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccB07bv0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccB07bv0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccB07bv0.debug.temp.o
+ .debug_info    0x0000000000000000      0x1b2 /tmp/cc1GisMY.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x9e /tmp/cc1GisMY.debug.temp.o
+ .debug_line    0x0000000000000000      0x116 /tmp/cc1GisMY.debug.temp.o
+ .debug_str     0x0000000000000000      0x40f /tmp/cc1GisMY.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc1GisMY.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc1GisMY.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc1GisMY.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc67mjB1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc67mjB1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc67mjB1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccKQgGn1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccKQgGn1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccKQgGn1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccNSiNt2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccNSiNt2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccNSiNt2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccvwR9f2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvwR9f2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccvwR9f2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc3I2pMY.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc3I2pMY.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc3I2pMY.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccPFUFY0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccPFUFY0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccPFUFY0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccRcKko0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccRcKko0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccRcKko0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccGtV1K0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccGtV1K0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccGtV1K0.debug.temp.o
+ .debug_info    0x0000000000000000     0x1ca5 /tmp/cc2AM3WZ.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x265 /tmp/cc2AM3WZ.debug.temp.o
+ .debug_line    0x0000000000000000      0x2d0 /tmp/cc2AM3WZ.debug.temp.o
+ .debug_str     0x0000000000000000     0x19f9 /tmp/cc2AM3WZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc2AM3WZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc2AM3WZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc2AM3WZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cctVArQ2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cctVArQ2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cctVArQ2.debug.temp.o
+ .debug_info    0x0000000000000000     0x20cd /tmp/ccXvjUY0.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x22b /tmp/ccXvjUY0.debug.temp.o
+ .debug_line    0x0000000000000000      0x31f /tmp/ccXvjUY0.debug.temp.o
+ .debug_str     0x0000000000000000     0x1d52 /tmp/ccXvjUY0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccXvjUY0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccXvjUY0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccXvjUY0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccHltxX2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccHltxX2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccHltxX2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cczL6BAZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cczL6BAZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cczL6BAZ.debug.temp.o
+ .debug_info    0x0000000000000000      0x39f /tmp/ccuE94R0.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x117 /tmp/ccuE94R0.debug.temp.o
+ .debug_line    0x0000000000000000      0x26f /tmp/ccuE94R0.debug.temp.o
+ .debug_str     0x0000000000000000      0x548 /tmp/ccuE94R0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccuE94R0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccuE94R0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccuE94R0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc6ouvX2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc6ouvX2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc6ouvX2.debug.temp.o
+ .debug_info    0x0000000000000000     0x1a34 /tmp/ccgXVyK1.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x1d4 /tmp/ccgXVyK1.debug.temp.o
+ .debug_line    0x0000000000000000      0x2e9 /tmp/ccgXVyK1.debug.temp.o
+ .debug_str     0x0000000000000000     0x16ba /tmp/ccgXVyK1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccgXVyK1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccgXVyK1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccgXVyK1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccbeKNq0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccbeKNq0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccbeKNq0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccAYy57Z.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccAYy57Z.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccAYy57Z.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccigge4Y.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccigge4Y.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccigge4Y.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccxF2mh3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccxF2mh3.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccxF2mh3.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccNwRFv2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccNwRFv2.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccNwRFv2.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc6rkxEZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc6rkxEZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc6rkxEZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccbXaWM0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccbXaWM0.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccbXaWM0.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccsheZzZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccsheZzZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccsheZzZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cck05lmZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cck05lmZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cck05lmZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccRuzeM1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccRuzeM1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccRuzeM1.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cchT7JJY.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cchT7JJY.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cchT7JJY.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccWMox00.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccWMox00.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccWMox00.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccOeh8RZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccOeh8RZ.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccOeh8RZ.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/ccM2oa4Y.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccM2oa4Y.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/ccM2oa4Y.debug.temp.o
+ .comment       0x0000000000000000       0x2c /tmp/cc3nwW52.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc3nwW52.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /tmp/cc3nwW52.debug.temp.o
+ .text          0x0000000000000000      0x204 /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000       0x2f /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x27 /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0xac /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000       0xc2 /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000        0xf /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x13 /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000        0x6 /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0x4 /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Lfence.obj)
+ .text          0x0000000000000000        0x3 /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x36 /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+ .text          0x0000000000000000        0xb /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(XGetBv.obj)
+ .text          0x0000000000000000        0x5 /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(VmgExit.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+LOAD /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+LOAD /tmp/ccaKqq50.debug.temp.o
+LOAD /tmp/cchlcSa3.debug.temp.o
+LOAD /tmp/ccSAle91.debug.temp.o
+LOAD /tmp/ccb6KnkZ.debug.temp.o
+LOAD /tmp/ccL33032.debug.temp.o
+LOAD /tmp/ccaljvP0.debug.temp.o
+LOAD /tmp/cc3NF3GZ.debug.temp.o
+LOAD /tmp/ccdLYjT1.debug.temp.o
+LOAD /tmp/ccJbSVv2.debug.temp.o
+LOAD /tmp/ccHseBt2.debug.temp.o
+LOAD /tmp/cclttFg1.debug.temp.o
+LOAD /tmp/ccGyCAS2.debug.temp.o
+LOAD /tmp/cc0hS9x2.debug.temp.o
+LOAD /tmp/cc9rLgMY.debug.temp.o
+LOAD /tmp/ccIeUTZY.debug.temp.o
+LOAD /tmp/ccg7UIn1.debug.temp.o
+LOAD /tmp/ccJr2MV1.debug.temp.o
+LOAD /tmp/ccA0tnc1.debug.temp.o
+LOAD /tmp/ccL0EJ82.debug.temp.o
+LOAD /tmp/cccXrZ3Z.debug.temp.o
+LOAD /tmp/cc5C2bx2.debug.temp.o
+LOAD /tmp/ccerylIZ.debug.temp.o
+LOAD /tmp/ccJUEbqZ.debug.temp.o
+LOAD /tmp/ccPcKKQ0.debug.temp.o
+LOAD /tmp/ccgaKT51.debug.temp.o
+LOAD /tmp/cce7DA60.debug.temp.o
+LOAD /tmp/ccrrd3M2.debug.temp.o
+LOAD /tmp/ccPc3q3Y.debug.temp.o
+LOAD /tmp/ccJisFE1.debug.temp.o
+LOAD /tmp/ccJFvWG1.debug.temp.o
+LOAD /tmp/ccsFXaM0.debug.temp.o
+LOAD /tmp/ccxKqf5Z.debug.temp.o
+LOAD /tmp/ccAkTox2.debug.temp.o
+LOAD /tmp/ccFmmDC1.debug.temp.o
+LOAD /tmp/ccWK95i3.debug.temp.o
+LOAD /tmp/ccAWUYc2.debug.temp.o
+LOAD /tmp/cc4BwdxZ.debug.temp.o
+LOAD /tmp/ccQmgCk1.debug.temp.o
+LOAD /tmp/cc5HbBYZ.debug.temp.o
+LOAD /tmp/ccn5b1s2.debug.temp.o
+LOAD /tmp/ccDFVcU2.debug.temp.o
+LOAD /tmp/cco0YxJ1.debug.temp.o
+LOAD /tmp/ccWYc8K2.debug.temp.o
+LOAD /tmp/ccgu9Ig0.debug.temp.o
+LOAD /tmp/cctkVcNZ.debug.temp.o
+LOAD /tmp/ccpdRfK0.debug.temp.o
+LOAD /tmp/cc0gvdy1.debug.temp.o
+LOAD /tmp/ccAU0SKZ.debug.temp.o
+LOAD /tmp/cc3k8Nm1.debug.temp.o
+LOAD /tmp/cc6qMg32.debug.temp.o
+LOAD /tmp/ccPBjSU1.debug.temp.o
+LOAD /tmp/ccbKAi8Y.debug.temp.o
+LOAD /tmp/cckxHmGZ.debug.temp.o
+LOAD /tmp/ccUv9OU1.debug.temp.o
+LOAD /tmp/ccwHtb61.debug.temp.o
+LOAD /tmp/ccrK6MX0.debug.temp.o
+LOAD /tmp/ccDMi980.debug.temp.o
+LOAD /tmp/cchzVvk1.debug.temp.o
+LOAD /tmp/ccADs6PY.debug.temp.o
+LOAD /tmp/cceCbrW2.debug.temp.o
+LOAD /tmp/cclKTdC2.debug.temp.o
+LOAD /tmp/ccP0wfs0.debug.temp.o
+LOAD /tmp/cceZsXz2.debug.temp.o
+LOAD /tmp/ccXd2x5Z.debug.temp.o
+LOAD /tmp/cczinb41.debug.temp.o
+LOAD /tmp/ccbYOtWZ.debug.temp.o
+LOAD /tmp/cctW2dO1.debug.temp.o
+LOAD /tmp/ccSxhag1.debug.temp.o
+LOAD /tmp/cceW8gfZ.debug.temp.o
+LOAD /tmp/ccvym7H0.debug.temp.o
+LOAD /tmp/ccRuYI52.debug.temp.o
+LOAD /tmp/ccZAoRF0.debug.temp.o
+LOAD /tmp/cc3QQkv2.debug.temp.o
+LOAD /tmp/ccLg3Ta2.debug.temp.o
+LOAD /tmp/ccg8cx8Z.debug.temp.o
+LOAD /tmp/cco3Koy2.debug.temp.o
+LOAD /tmp/cck25fd3.debug.temp.o
+LOAD /tmp/cc43ELOY.debug.temp.o
+LOAD /tmp/ccpaHfd3.debug.temp.o
+LOAD /tmp/ccGgtpK1.debug.temp.o
+LOAD /tmp/ccanmBSZ.debug.temp.o
+LOAD /tmp/ccB07bv0.debug.temp.o
+LOAD /tmp/cc1GisMY.debug.temp.o
+LOAD /tmp/cc67mjB1.debug.temp.o
+LOAD /tmp/ccKQgGn1.debug.temp.o
+LOAD /tmp/ccNSiNt2.debug.temp.o
+LOAD /tmp/ccvwR9f2.debug.temp.o
+LOAD /tmp/cc3I2pMY.debug.temp.o
+LOAD /tmp/ccPFUFY0.debug.temp.o
+LOAD /tmp/ccRcKko0.debug.temp.o
+LOAD /tmp/ccGtV1K0.debug.temp.o
+LOAD /tmp/cc2AM3WZ.debug.temp.o
+LOAD /tmp/cctVArQ2.debug.temp.o
+LOAD /tmp/ccXvjUY0.debug.temp.o
+LOAD /tmp/ccHltxX2.debug.temp.o
+LOAD /tmp/cczL6BAZ.debug.temp.o
+LOAD /tmp/ccuE94R0.debug.temp.o
+LOAD /tmp/cc6ouvX2.debug.temp.o
+LOAD /tmp/ccgXVyK1.debug.temp.o
+LOAD /tmp/ccbeKNq0.debug.temp.o
+LOAD /tmp/ccAYy57Z.debug.temp.o
+LOAD /tmp/ccigge4Y.debug.temp.o
+LOAD /tmp/ccxF2mh3.debug.temp.o
+LOAD /tmp/ccNwRFv2.debug.temp.o
+LOAD /tmp/cc6rkxEZ.debug.temp.o
+LOAD /tmp/ccbXaWM0.debug.temp.o
+LOAD /tmp/ccsheZzZ.debug.temp.o
+LOAD /tmp/cck05lmZ.debug.temp.o
+LOAD /tmp/ccRuzeM1.debug.temp.o
+LOAD /tmp/cchT7JJY.debug.temp.o
+LOAD /tmp/ccWMox00.debug.temp.o
+LOAD /tmp/ccOeh8RZ.debug.temp.o
+LOAD /tmp/ccM2oa4Y.debug.temp.o
+LOAD /tmp/cc3nwW52.debug.temp.o
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Application/BootManagerMenuApp/BootManagerMenuApp/OUTPUT/BootManagerMenuApp.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/DxeReportStatusCodeLib/DxeReportStatusCodeLib/OUTPUT/DxeReportStatusCodeLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/PeiDxeDebugLibReportStatusCode/PeiDxeDebugLibReportStatusCode/OUTPUT/PeiDxeDebugLibReportStatusCode.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSortLib/BaseSortLib/OUTPUT/BaseSortLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib/OUTPUT/DxeServicesTableLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib
+LOAD /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240    0x12ad2
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.InternalAllocatePool.constprop.0
+                0x0000000000000240       0x37 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmEliminateExtraSpaces
+                0x0000000000000277       0x34 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.AsciiStrnLenS
+                0x00000000000002ab       0x26 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BasePrintLibFillBuffer
+                0x00000000000002d1       0x2a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.LShiftU64.constprop.0
+                0x00000000000002fb        0xc /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000002fb                LShiftU64.constprop.0
+ .text.ReportStatusCode.constprop.0
+                0x0000000000000307       0xf7 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000000307                ReportStatusCode.constprop.0
+ .text.ProcessLibraryDestructorList
+                0x00000000000003fe        0x5 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000003fe                EfiEventEmptyFunction
+                0x00000000000003fe                ProcessLibraryDestructorList
+ .text.DebugPrintEnabled
+                0x0000000000000403        0x7 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000000403                DebugPrintEnabled
+ .text.AllocatePool
+                0x000000000000040a       0x9d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x000000000000040a                AllocatePool
+ .text.CopyMem  0x00000000000004a7      0x260 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000004a7                CopyMem
+ .text.DebugAssert
+                0x0000000000000707      0x154 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000000707                DebugAssert
+ .text.EfiReleaseLock.constprop.0
+                0x000000000000085b       0x4b /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x000000000000085b                EfiReleaseLock.constprop.0
+ .text.EfiAcquireLock.constprop.0
+                0x00000000000008a6       0x50 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000008a6                EfiAcquireLock.constprop.0
+ .text.BmGetRamDiskDevicePath
+                0x00000000000008f6       0xdc /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000008f6                BmGetRamDiskDevicePath
+ .text.EfiBootManagerConnectDevicePath
+                0x00000000000009d2      0x138 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000009d2                EfiBootManagerConnectDevicePath
+ .text.EfiGetNameGuidFromFwVolDevicePathNode
+                0x0000000000000b0a       0x4f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000000b0a                EfiGetNameGuidFromFwVolDevicePathNode
+ .text.WriteUnaligned64
+                0x0000000000000b59       0x38 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.ReadUnaligned64
+                0x0000000000000b91       0x32 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000000b91                ReadUnaligned64
+ .text.CompareGuid
+                0x0000000000000bc3       0x54 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000000bc3                CompareGuid
+ .text.BmIsBootManagerMenuFilePath
+                0x0000000000000c17       0x6f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000000c17                BmIsBootManagerMenuFilePath
+ .text.EfiGetSystemConfigurationTable
+                0x0000000000000c86       0x6b /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000000c86                EfiGetSystemConfigurationTable
+ .text.CopyGuid
+                0x0000000000000cf1       0x45 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000000cf1                CopyGuid
+ .text.ReportStatusCodeEx.constprop.0
+                0x0000000000000d36      0x2aa /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.ReadUnaligned32
+                0x0000000000000fe0       0x2d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.WriteUnaligned16
+                0x000000000000100d       0x38 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x000000000000100d                WriteUnaligned16
+ .text.ReadUnaligned16
+                0x0000000000001045       0x32 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000001045                ReadUnaligned16
+ .text.AsciiStrLen
+                0x0000000000001077       0x6b /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000001077                AsciiStrLen
+ .text.DebugPrint
+                0x00000000000010e2      0x263 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000010e2                DebugPrint
+ .text.GetSectionFromFv.constprop.0
+                0x0000000000001345      0x114 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000001345                GetSectionFromFv.constprop.0
+ .text.GetHobList
+                0x0000000000001459       0x95 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000001459                GetHobList
+ .text._ModuleEntryPoint
+                0x00000000000014ee      0x2b1 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000014ee                _ModuleEntryPoint
+ .text.FreePool
+                0x000000000000179f       0x55 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x000000000000179f                FreePool
+ .text.EfiBootManagerFreeDriverHealthInfo
+                0x00000000000017f4       0x46 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.EfiBootManagerFreeLoadOption
+                0x000000000000183a       0x55 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x000000000000183a                EfiBootManagerFreeLoadOption
+ .text.EfiBootManagerFreeLoadOptions
+                0x000000000000188f       0x50 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x000000000000188f                EfiBootManagerFreeLoadOptions
+ .text.BmAdjustFvFilePath
+                0x00000000000018df      0x1b5 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmPrintDp
+                0x0000000000001a94       0x5b /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000001a94                BmPrintDp
+ .text.BmConnectUsbShortFormDevicePath
+                0x0000000000001aef      0x198 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.GetVariable2
+                0x0000000000001c87      0x119 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.GetEfiGlobalVariable2
+                0x0000000000001da0       0x12 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmGetFreeOptionNumber
+                0x0000000000001db2      0x176 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000001db2                BmGetFreeOptionNumber
+ .text.BmUpdateSystemTableConsole
+                0x0000000000001f28      0x1da /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.FreePages
+                0x0000000000002102       0x86 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmDestroyRamDisk
+                0x0000000000002188      0x264 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000002188                BmDestroyRamDisk
+ .text.LibPcdSet32S
+                0x00000000000023ec       0xb3 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000023ec                LibPcdSet32S
+ .text.AsciiStrnCmp.part.0
+                0x000000000000249f       0xbb /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x000000000000249f                AsciiStrnCmp.part.0
+ .text.StrLen   0x000000000000255a       0x79 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.StrSize  0x00000000000025d3       0x18 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000025d3                StrSize
+ .text.FileDevicePath.constprop.0
+                0x00000000000025eb       0x96 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.EfiBootManagerIsValidLoadOptionVariableName.part.0
+                0x0000000000002681      0x168 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmSetVariableAndReportStatusCodeOnError
+                0x00000000000027e9      0x124 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000027e9                BmSetVariableAndReportStatusCodeOnError
+ .text.StrCmp   0x000000000000290d       0x7a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x000000000000290d                StrCmp
+ .text.AsciiStrToUnicodeStrS
+                0x0000000000002987      0x150 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.StrnLenS
+                0x0000000000002ad7       0x54 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.StrCatS  0x0000000000002b2b      0x2a5 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.InternalBaseLibIsListValid
+                0x0000000000002dd0       0x8d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000002dd0                InternalBaseLibIsListValid
+ .text.GetFirstNode
+                0x0000000000002e5d       0x36 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000002e5d                GetFirstNode
+ .text.IsNull   0x0000000000002e93       0x3e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000002e93                IsNull
+ .text.GetNextNode
+                0x0000000000002ed1       0x32 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmGetBootDescription
+                0x0000000000002f03      0x39f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000002f03                BmGetBootDescription
+ .text.BasePrintLibValueToString
+                0x00000000000032a2       0x2f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.0
+                0x00000000000032d1      0xdda /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000032d1                BasePrintLibSPrintMarker.constprop.0
+ .text.BasePrintLibSPrint.constprop.0
+                0x00000000000040ab       0xb8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.UnicodeVSPrint
+                0x0000000000004163       0xe5 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000004163                UnicodeVSPrint
+ .text.Print    0x0000000000004248       0xc7 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000004248                Print
+ .text.BmRepairNotify
+                0x000000000000430f       0x4d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.UnicodeSPrint
+                0x000000000000435c       0x21 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x000000000000435c                UnicodeSPrint
+ .text.EfiBootManagerDeleteLoadOptionVariable
+                0x000000000000437d      0x167 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x000000000000437d                EfiBootManagerDeleteLoadOptionVariable
+ .text.EfiBootManagerLoadOptionToVariable
+                0x00000000000044e4      0x216 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000044e4                EfiBootManagerLoadOptionToVariable
+ .text.EfiBootManagerAddLoadOptionVariable
+                0x00000000000046fa      0x27e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000046fa                EfiBootManagerAddLoadOptionVariable
+ .text.BmGetNetworkDescription
+                0x0000000000004978      0x3a0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.AllocateCopyPool
+                0x0000000000004d18      0x15e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000004d18                AllocateCopyPool
+ .text.BmGetMiscDescription
+                0x0000000000004e76      0x280 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmGetLoadFileDescription
+                0x00000000000050f6       0xc7 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.CompareMem
+                0x00000000000051bd       0xcf /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000051bd                CompareMem
+ .text.EfiBootManagerFindLoadOption
+                0x000000000000528c       0x8d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x000000000000528c                EfiBootManagerFindLoadOption
+ .text.BmMatchPartitionDevicePathNode.part.0
+                0x0000000000005319       0xb7 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmExpandMediaDevicePath
+                0x00000000000053d0      0x34f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmExpandLoadFile
+                0x000000000000571f      0x3b5 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmDelPartMatchInstance
+                0x0000000000005ad4      0x109 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmCachePartitionDevicePath
+                0x0000000000005bdd      0x153 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.EfiBootManagerConnectConsoleVariable.part.0
+                0x0000000000005d30      0x32d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.EfiBootManagerConnectAllDefaultConsoles
+                0x000000000000605d      0x187 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.EfiBootManagerConnectAll
+                0x00000000000061e4       0x8c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000061e4                EfiBootManagerConnectAll
+ .text.BmGetNextLoadOptionDevicePath
+                0x0000000000006270     0x1248 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000006270                BmGetNextLoadOptionDevicePath
+ .text.ZeroMem.part.0
+                0x00000000000074b8       0xf1 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000074b8                ZeroMem.part.0
+ .text.InternalReallocatePool.constprop.0
+                0x00000000000075a9       0x79 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000075a9                InternalReallocatePool.constprop.0
+ .text.BmGetSingleControllerHealthStatus
+                0x0000000000007622      0x26e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.EfiBootManagerGetDriverHealthInfo
+                0x0000000000007890      0x2e9 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.EfiBootManagerInitializeLoadOption
+                0x0000000000007b79       0xd8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000007b79                EfiBootManagerInitializeLoadOption
+ .text.EfiBootManagerVariableToLoadOptionEx.part.0
+                0x0000000000007c51      0x239 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000007c51                EfiBootManagerVariableToLoadOptionEx.part.0
+ .text.EfiBootManagerGetLoadOptions.part.0.constprop.0
+                0x0000000000007e8a      0x22e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000007e8a                EfiBootManagerGetLoadOptions.part.0.constprop.0
+ .text.BmHotkeyCallback
+                0x00000000000080b8      0x204 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000080b8                BmHotkeyCallback
+ .text.BmReportLoadFailure
+                0x00000000000082bc       0x67 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000082bc                BmReportLoadFailure
+ .text.AllocateZeroPool
+                0x0000000000008323      0x103 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000008323                AllocateZeroPool
+ .text.HiiAddPackages.constprop.0
+                0x0000000000008426      0x114 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000008426                HiiAddPackages.constprop.0
+ .text.BmGetNvmeDescription
+                0x000000000000853a      0x32c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmGetUsbDescription
+                0x0000000000008866      0x219 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmGetDescriptionFromDiskInfo
+                0x0000000000008a7f      0x329 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.HiiGetSupportedLanguages
+                0x0000000000008da8       0xaa /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000008da8                HiiGetSupportedLanguages
+ .text.GetBestLanguage
+                0x0000000000008e52      0x147 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.HiiGetString.constprop.0
+                0x0000000000008f99      0x195 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000008f99                HiiGetString.constprop.0
+ .text.BmGetControllerName
+                0x000000000000912e      0x175 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmDisplayMessages
+                0x00000000000092a3      0x120 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .text.BmRepairAllControllers
+                0x00000000000093c3      0x45a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000093c3                BmRepairAllControllers
+ .text.UefiDevicePathLibCatPrint
+                0x000000000000981d      0x15c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextEndInstance
+                0x0000000000009979       0x1c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextBBS
+                0x0000000000009995       0xd2 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextRamDisk
+                0x0000000000009a67      0x210 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathRelativeOffsetRange
+                0x0000000000009c77       0x24 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextFvFile
+                0x0000000000009c9b       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextFv
+                0x0000000000009cbb       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextMediaProtocol
+                0x0000000000009cdb       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextFilePath
+                0x0000000000009cfb       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextCDROM
+                0x0000000000009d1b       0x44 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextHardDrive
+                0x0000000000009d5f       0x9c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextBluetoothLE
+                0x0000000000009dfb       0x43 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextWiFi
+                0x0000000000009e3e       0x48 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextBluetooth
+                0x0000000000009e86       0x3b /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextVlan
+                0x0000000000009ec1       0x21 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextiSCSI
+                0x0000000000009ee2      0x124 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextUart
+                0x000000000000a006      0x10b /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextInfiniBand
+                0x000000000000a111       0x31 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.CatIPv6Address
+                0x000000000000a142       0x6b /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.CatIPv4Address
+                0x000000000000a1ad       0x2c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.CatNetworkProtocol
+                0x000000000000a1d9       0x49 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextMacAddr
+                0x000000000000a222       0x88 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextI2O
+                0x000000000000a2aa       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextSata
+                0x000000000000a2ca       0x2f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextUsbClass
+                0x000000000000a2f9      0x19c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextLogicalUnit
+                0x000000000000a495       0x21 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextUsb
+                0x000000000000a4b6       0x26 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToText1394
+                0x000000000000a4dc       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextEmmc
+                0x000000000000a4fc       0x21 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextSd
+                0x000000000000a51d       0x21 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextUfs
+                0x000000000000a53e       0x26 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextNVMe
+                0x000000000000a564       0x4c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextSasEx
+                0x000000000000a5b0      0x1ac /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextFibreEx
+                0x000000000000a75c       0xb2 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextFibre
+                0x000000000000a80e       0x24 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextScsi
+                0x000000000000a832       0x26 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextAtapi
+                0x000000000000a858       0x6f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextAcpiEx
+                0x000000000000a8c7      0x2a4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextAcpi
+                0x000000000000ab6b       0xca /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextBmc
+                0x000000000000ac35       0x39 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextController
+                0x000000000000ac6e       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextMemMap
+                0x000000000000ac8e       0x2b /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextPccard
+                0x000000000000acb9       0x21 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextPci
+                0x000000000000acda       0x26 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.BdsSetConsoleMode
+                0x000000000000ad00      0x501 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.GetLineWidth
+                0x000000000000b201       0x7a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.PrintCharAt
+                0x000000000000b27b       0x33 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.PrintStringAt
+                0x000000000000b2ae       0x36 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.BootMenuSelectItem
+                0x000000000000b2e4      0x427 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DrawBootPopupMenu
+                0x000000000000b70b      0x4ea /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevicePathFromHandle
+                0x000000000000bbf5       0x39 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000bbf5                DevicePathFromHandle
+ .text.SetDevicePathEndNode
+                0x000000000000bc2e       0x45 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000bc2e                SetDevicePathEndNode
+ .text.SetDevicePathNodeLength
+                0x000000000000bc73       0x46 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000bc73                SetDevicePathNodeLength
+ .text.DevicePathNodeLength
+                0x000000000000bcb9       0x3b /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000bcb9                DevicePathNodeLength
+ .text.DevPathToTextUri
+                0x000000000000bcf4       0x9a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextDns
+                0x000000000000bd8e       0xb0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextIPv6
+                0x000000000000be3e      0x106 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextIPv4
+                0x000000000000bf44      0x115 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextUsbWWID
+                0x000000000000c059       0xba /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextAcpiAdr
+                0x000000000000c113       0x92 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.NextDevicePathNode
+                0x000000000000c1a5       0x3a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000c1a5                NextDevicePathNode
+ .text.DevicePathSubType
+                0x000000000000c1df       0x32 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000c1df                DevicePathSubType
+ .text.DevicePathType
+                0x000000000000c211       0x31 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000c211                DevicePathType
+ .text.DevPathToTextNodeGeneric
+                0x000000000000c242      0x118 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.DevPathToTextVendor
+                0x000000000000c35a      0x382 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.IsDevicePathEndType
+                0x000000000000c6dc       0x3e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000c6dc                IsDevicePathEndType
+ .text.IsDevicePathEnd
+                0x000000000000c71a       0x53 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000c71a                IsDevicePathEnd
+ .text.UefiDevicePathLibConvertDevicePathToText
+                0x000000000000c76d      0x1b6 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000c76d                UefiDevicePathLibConvertDevicePathToText
+ .text.IsDevicePathValid
+                0x000000000000c923       0xb3 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000c923                IsDevicePathValid
+ .text.UefiDevicePathLibGetDevicePathSize
+                0x000000000000c9d6       0x54 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000c9d6                UefiDevicePathLibGetDevicePathSize
+ .text.UefiDevicePathLibDuplicateDevicePath
+                0x000000000000ca2a       0x31 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000ca2a                UefiDevicePathLibDuplicateDevicePath
+ .text.UefiDevicePathLibGetNextDevicePathInstance
+                0x000000000000ca5b       0xa8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000ca5b                UefiDevicePathLibGetNextDevicePathInstance
+ .text.UefiDevicePathLibAppendDevicePathInstance
+                0x000000000000cb03       0xce /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000cb03                UefiDevicePathLibAppendDevicePathInstance
+ .text.UefiDevicePathLibAppendDevicePath
+                0x000000000000cbd1       0xb0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000cbd1                UefiDevicePathLibAppendDevicePath
+ .text.UefiDevicePathLibAppendDevicePathNode
+                0x000000000000cc81       0x9b /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000cc81                UefiDevicePathLibAppendDevicePathNode
+ .text.IgnoreBootOption
+                0x000000000000cd1c      0x5ba /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .text.InternalGetReportStatusCode.part.0
+                0x000000000000d2d6       0x49 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000d2d6                InternalGetReportStatusCode.part.0
+ .text.ReportDebugCodeEnabled
+                0x000000000000d31f        0x7 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000d31f                ReportDebugCodeEnabled
+ .text.ReportErrorCodeEnabled
+                0x000000000000d326        0x7 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000d326                ReportErrorCodeEnabled
+ .text.BootManagerMenuEntry
+                0x000000000000d32d     0x2246 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                0x000000000000d32d                BootManagerMenuEntry
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.CopyMem.str1.1
+                0x000000000000f573       0xbf /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.DebugAssert.str1.1
+                0x000000000000f632       0x18 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.EfiReleaseLock.constprop.0.str1.1
+                0x000000000000f64a       0x4f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.EfiAcquireLock.constprop.0.str1.1
+                0x000000000000f699       0x1e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetRamDiskDevicePath.str1.1
+                0x000000000000f6b7       0x63 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.EfiBootManagerConnectDevicePath.str1.1
+                0x000000000000f71a       0x93 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.EfiGetNameGuidFromFwVolDevicePathNode.str1.1
+                0x000000000000f7ad       0x57 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.WriteUnaligned64.str1.1
+                0x000000000000f804       0x33 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                                         0x4a (size before relaxing)
+ .rodata.ReportStatusCodeEx.constprop.0.str1.1
+                0x000000000000f837       0xcc /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.AsciiStrLen.str1.1
+                0x000000000000f903       0x7f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.DebugPrint.str1.1
+                0x000000000000f982      0x14d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.GetSectionFromFv.constprop.0.str1.1
+                0x000000000000facf       0x74 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                                         0x90 (size before relaxing)
+ .rodata.GetHobList.str1.1
+                0x000000000000fb43       0x4b /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata._ModuleEntryPoint.str1.1
+                0x000000000000fb8e      0x22f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.FreePool.str1.1
+                0x000000000000fdbd       0x4d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmPrintDp.str1.1
+                0x000000000000fe0a        0x3 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.GetVariable2.str1.1
+                0x000000000000fe0d       0x5d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetFreeOptionNumber.str1.1
+                0x000000000000fe6a      0x148 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetFreeOptionNumber.str2.2
+                0x000000000000ffb2       0x12 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmUpdateSystemTableConsole.str1.1
+                0x000000000000ffc4       0x32 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.FreePages.str1.1
+                0x000000000000fff6        0xb /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmDestroyRamDisk.str1.1
+                0x0000000000010001       0x60 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.LibPcdSet32S.str1.1
+                0x0000000000010061       0x4a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.AsciiStrnCmp.part.0.str1.1
+                0x00000000000100ab       0x70 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.StrLen.str1.1
+                0x000000000001011b       0x5d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.FileDevicePath.constprop.0.str2.2
+                0x0000000000010178       0x2c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.EfiBootManagerIsValidLoadOptionVariableName.part.0.str1.1
+                0x00000000000101a4       0x72 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.AsciiStrToUnicodeStrS.str1.1
+                0x0000000000010216       0xb8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.StrCatS.str1.1
+                0x00000000000102ce       0xd6 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.InternalBaseLibIsListValid.str1.1
+                0x00000000000103a4       0x75 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                                         0x8a (size before relaxing)
+ .rodata.GetFirstNode.str1.1
+                0x0000000000010419       0x22 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetBootDescription.str1.1
+                0x000000000001043b       0x99 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.0.str1.1
+                0x00000000000104d4      0x27f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000010753        0x1 
+ .rodata.BasePrintLibSPrintMarker.constprop.0
+                0x0000000000010754       0xec /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.UnicodeVSPrint.str1.1
+                0x0000000000010840       0x5f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.Print.str1.1
+                0x000000000001089f       0x4e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmRepairNotify.str1.1
+                0x00000000000108ed       0x1a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000010907        0x1 
+ .rodata.BmRepairNotify.str2.2
+                0x0000000000010908       0x34 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.EfiBootManagerDeleteLoadOptionVariable.str2.2
+                0x000000000001093c        0xe /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.EfiBootManagerLoadOptionToVariable.str1.1
+                0x000000000001094a       0x19 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.EfiBootManagerAddLoadOptionVariable.str1.1
+                0x0000000000010963       0x1f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetNetworkDescription.str2.2
+                0x0000000000010982       0xb4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetNetworkDescription.str1.1
+                0x0000000000010a36       0x1f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                                         0x1c (size before relaxing)
+ .rodata.AllocateCopyPool.str1.1
+                0x0000000000010a36       0x3f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000010a75        0x1 
+ .rodata.BmGetMiscDescription.str2.2
+                0x0000000000010a76       0xc8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetMiscDescription.str1.1
+                0x0000000000010b3e       0x3f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                                         0x1b (size before relaxing)
+ .rodata.CompareMem.str1.1
+                0x0000000000010b3e       0x80 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmExpandMediaDevicePath.str1.1
+                0x0000000000010bbe       0x21 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmExpandLoadFile.str1.1
+                0x0000000000010bdf       0x56 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000010c35        0x1 
+ .rodata.EfiBootManagerConnectAllDefaultConsoles.str2.2
+                0x0000000000010c36       0x28 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetNextLoadOptionDevicePath.str1.1
+                0x0000000000010c5e       0x19 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000010c77        0x1 
+ .rodata.BmGetNextLoadOptionDevicePath.str2.2
+                0x0000000000010c78        0xa /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.ZeroMem.part.0.str1.1
+                0x0000000000010c82       0x74 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetSingleControllerHealthStatus.str1.1
+                0x0000000000010cf6       0x8e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.EfiBootManagerGetDriverHealthInfo.str1.1
+                0x0000000000010d84       0x24 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.EfiBootManagerGetLoadOptions.part.0.constprop.0.str2.2
+                0x0000000000010da8       0x1e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.EfiBootManagerGetLoadOptions.part.0.constprop.0.str1.1
+                0x0000000000010dc6       0x7f /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                                         0x97 (size before relaxing)
+ .rodata.BmHotkeyCallback.str1.1
+                0x0000000000010e45       0xf0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetNvmeDescription.str1.1
+                0x0000000000010f35       0x21 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetUsbDescription.str2.2
+                0x0000000000010f56        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetDescriptionFromDiskInfo.str2.2
+                0x0000000000010f5a       0x2c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.HiiGetSupportedLanguages.str1.1
+                0x0000000000010f86       0x58 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.GetBestLanguage.str1.1
+                0x0000000000010fde       0x23 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.HiiGetString.constprop.0.str1.1
+                0x0000000000011001       0x4a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                                         0x4b (size before relaxing)
+ *fill*         0x000000000001104b        0x1 
+ .rodata.HiiGetString.constprop.0.str2.2
+                0x000000000001104c       0x1a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmGetControllerName.str2.2
+                0x0000000000011066       0x1a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                                          0xa (size before relaxing)
+ .rodata.BmGetControllerName.str1.1
+                0x0000000000011066        0xa /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmDisplayMessages.str1.1
+                0x0000000000011070       0x16 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmDisplayMessages.str2.2
+                0x0000000000011086       0x2c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.BmRepairAllControllers.str1.1
+                0x00000000000110b2       0x76 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000011128        0x8 
+ .rodata.mHexStr
+                0x0000000000011130       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.2878
+                0x0000000000011140        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000011148        0x8 
+ .rodata.__FUNCTION__.3157
+                0x0000000000011150       0x16 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000011166        0x2 
+ .rodata.__FUNCTION__.3040
+                0x0000000000011168        0xe /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.str2.2
+                0x0000000000011176      0x15e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x00000000000112d4        0xc 
+ .rodata.__FUNCTION__.18011
+                0x00000000000112e0       0x11 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x00000000000112f1        0x7 
+ .rodata.__FUNCTION__.2855
+                0x00000000000112f8        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.17865
+                0x0000000000011300       0x17 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000011317        0x9 
+ .rodata._gPcd_FixedAtBuild_PcdDriverHealthConfigureForm
+                0x0000000000011320       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.mEndOfPakageList
+                0x0000000000011330        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000011334        0xc 
+ .rodata._gPcd_FixedAtBuild_PcdBootManagerMenuFile
+                0x0000000000011340       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000011340                _gPcd_FixedAtBuild_PcdBootManagerMenuFile
+ *fill*         0x0000000000011350       0x10 
+ .rodata.mWarningString
+                0x0000000000011360       0x96 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x00000000000113f6        0xa 
+ .rodata.mErrorString
+                0x0000000000011400      0x2b5 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .rodata.UefiDevicePathLibCatPrint.str1.1
+                0x00000000000116b5       0x5d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextEndInstance.str2.2
+                0x0000000000011712      0x15e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                          0x4 (size before relaxing)
+ .rodata.DevPathToTextBBS.str2.2
+                0x0000000000011712       0x58 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                         0x84 (size before relaxing)
+ *fill*         0x000000000001176a        0x2 
+ .rodata.DevPathToTextBBS
+                0x000000000001176c       0x18 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextRamDisk.str2.2
+                0x0000000000011784       0xca /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                        0x136 (size before relaxing)
+ .rodata.DevPathRelativeOffsetRange.str2.2
+                0x000000000001184e       0x28 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextFvFile.str2.2
+                0x0000000000011876       0x16 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextFv.str2.2
+                0x000000000001188c        0xe /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextMediaProtocol.str2.2
+                0x000000000001189a       0x14 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextFilePath.str2.2
+                0x00000000000118ae        0x6 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextCDROM.str2.2
+                0x00000000000118b4       0x48 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextHardDrive.str2.2
+                0x00000000000118fc       0x64 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                         0x7e (size before relaxing)
+ .rodata.DevPathToTextBluetoothLE.str2.2
+                0x0000000000011960       0x5a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextWiFi.str2.2
+                0x00000000000119ba       0x14 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextBluetooth.str2.2
+                0x00000000000119ce       0x48 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextVlan.str2.2
+                0x0000000000011a16       0x12 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextiSCSI.str2.2
+                0x0000000000011a28       0x76 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                         0x9a (size before relaxing)
+ .rodata.DevPathToTextUart.str2.2
+                0x0000000000011a9e       0x5c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                         0x74 (size before relaxing)
+ .rodata.DevPathToTextInfiniBand.str2.2
+                0x0000000000011afa       0x4c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.CatIPv6Address.str2.2
+                0x0000000000011b46       0x90 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.CatIPv4Address.str2.2
+                0x0000000000011bd6       0x18 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.CatNetworkProtocol.str2.2
+                0x0000000000011bee        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                         0x12 (size before relaxing)
+ .rodata.DevPathToTextMacAddr.str2.2
+                0x0000000000011bf6        0xa /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextI2O.str2.2
+                0x0000000000011c00       0x14 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextSata.str2.2
+                0x0000000000011c14       0x2a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextUsbClass.str2.2
+                0x0000000000011c3e      0x250 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ *fill*         0x0000000000011e8e        0x2 
+ .rodata.DevPathToTextUsbClass
+                0x0000000000011e90       0x38 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextLogicalUnit.str2.2
+                0x0000000000011ec8       0x16 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextUsb.str2.2
+                0x0000000000011ede       0x1e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToText1394.str2.2
+                0x0000000000011efc       0x1c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextEmmc.str2.2
+                0x0000000000011f18       0x16 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextSd.str2.2
+                0x0000000000011f2e       0x12 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextUfs.str2.2
+                0x0000000000011f40       0x1e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextNVMe.str2.2
+                0x0000000000011f5e       0x66 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextSasEx.str2.2
+                0x0000000000011fc4       0xb4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                         0xce (size before relaxing)
+ .rodata.DevPathToTextFibreEx.str2.2
+                0x0000000000012078       0x16 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextFibre.str2.2
+                0x000000000001208e       0x26 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextScsi.str2.2
+                0x00000000000120b4       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextAtapi.str2.2
+                0x00000000000120d4       0x72 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextAcpiEx.str2.2
+                0x0000000000012146      0x12c /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                        0x148 (size before relaxing)
+ .rodata.DevPathToTextAcpi.str2.2
+                0x0000000000012272       0xc2 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextBmc.str2.2
+                0x0000000000012334       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextController.str2.2
+                0x0000000000012354       0x16 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextMemMap.str2.2
+                0x000000000001236a       0x3e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextPccard.str2.2
+                0x00000000000123a8       0x1a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextPci.str2.2
+                0x00000000000123c2       0x1e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.BdsSetConsoleMode.str1.1
+                0x00000000000123e0       0x4e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                         0x83 (size before relaxing)
+ .rodata.PrintCharAt.str2.2
+                0x000000000001242e        0x6 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.BootMenuSelectItem.str1.1
+                0x0000000000012434       0x1d /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                         0x34 (size before relaxing)
+ .rodata.SetDevicePathEndNode.str1.1
+                0x0000000000012451       0x47 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                         0x5c (size before relaxing)
+ .rodata.SetDevicePathNodeLength.str1.1
+                0x0000000000012498       0x47 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextUri.str1.1
+                0x00000000000124df       0x17 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextUri.str2.2
+                0x00000000000124f6       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextDns.str2.2
+                0x0000000000012506        0xa /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextIPv6.str2.2
+                0x0000000000012510       0x80 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextIPv4.str2.2
+                0x0000000000012590       0x24 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextUsbWWID.str1.1
+                0x00000000000125b4       0x17 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ *fill*         0x00000000000125cb        0x1 
+ .rodata.DevPathToTextUsbWWID.str2.2
+                0x00000000000125cc       0x3a /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextAcpiAdr.str2.2
+                0x0000000000012606       0x26 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextNodeGeneric.str2.2
+                0x000000000001262c       0x22 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.DevPathToTextVendor.str2.2
+                0x000000000001264e      0x154 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                        0x166 (size before relaxing)
+ .rodata.UefiDevicePathLibConvertDevicePathToText.str2.2
+                0x00000000000127a2        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.IgnoreBootOption.str2.2
+                0x00000000000127a6       0x24 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.IgnoreBootOption.str1.1
+                0x00000000000127ca       0xa4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                        0x100 (size before relaxing)
+ .rodata.BootManagerMenuEntry.str1.1
+                0x000000000001286e      0x3f9 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                        0x591 (size before relaxing)
+ *fill*         0x0000000000012c67        0x1 
+ .rodata.BootManagerMenuEntry.str2.2
+                0x0000000000012c68       0x50 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                         0x68 (size before relaxing)
+ .rodata.mUefiDevicePathLibEndDevicePath
+                0x0000000000012cb8        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.CSWTCH.44
+                0x0000000000012cbc        0x6 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .rodata.str2.2
+                0x0000000000012cc2       0x50 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ *(.got .got.*)
+ .got           0x0000000000012d12        0x0 BootManagerMenu.obj (symbol from plugin)
+ .got.plt       0x0000000000012d12        0x0 BootManagerMenu.obj (symbol from plugin)
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000012d20        0x0
+ .plt           0x0000000000012d20        0x0 BootManagerMenu.obj (symbol from plugin)
+
+.plt.got        0x0000000000012d18        0x0
+ .plt.got       0x0000000000012d18        0x0 BootManagerMenu.obj (symbol from plugin)
+
+.data           0x0000000000012d40      0xba0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gPcdProtocolGuid
+                0x0000000000012d40       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiStatusCodeDataTypeDebugGuid
+                0x0000000000012d50       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiHobListGuid
+                0x0000000000012d60       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiHiiImageProtocolGuid
+                0x0000000000012d70       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiHiiFontProtocolGuid
+                0x0000000000012d80       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x0000000000012d90       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x0000000000012da0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x0000000000012db0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiDxeServicesTableGuid
+                0x0000000000012dc0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiPciIoProtocolGuid
+                0x0000000000012dd0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEdkiiStatusCodeDataTypeVariableGuid
+                0x0000000000012de0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiSimpleTextOutProtocolGuid
+                0x0000000000012df0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000012df0                gEfiSimpleTextOutProtocolGuid
+ .data.gEfiSimpleTextInProtocolGuid
+                0x0000000000012e00       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000012e10       0x10 
+ .data.rel.ro.local.mConVarName
+                0x0000000000012e20       0x30 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiRamDiskProtocolGuid
+                0x0000000000012e50       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.mBmHardDriveBootVariableGuid
+                0x0000000000012e60       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiDiskInfoSdMmcInterfaceGuid
+                0x0000000000012e70       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiDiskInfoScsiInterfaceGuid
+                0x0000000000012e80       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiDiskInfoIdeInterfaceGuid
+                0x0000000000012e90       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiDiskInfoAhciInterfaceGuid
+                0x0000000000012ea0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiDiskInfoProtocolGuid
+                0x0000000000012eb0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiUsbIoProtocolGuid
+                0x0000000000012ec0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiLoadFileProtocolGuid
+                0x0000000000012ed0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000012ed0                gEfiLoadFileProtocolGuid
+ .data.gEfiNvmExpressPassThruProtocolGuid
+                0x0000000000012ee0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiDevicePathProtocolGuid
+                0x0000000000012ef0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000012ef0                gEfiDevicePathProtocolGuid
+ .data.gEfiSimpleFileSystemProtocolGuid
+                0x0000000000012f00       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000012f00                gEfiSimpleFileSystemProtocolGuid
+ .data.gEfiBlockIoProtocolGuid
+                0x0000000000012f10       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000012f10                gEfiBlockIoProtocolGuid
+ .data.rel.local.mPlatformBootDescriptionHandlers
+                0x0000000000012f20       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.mBmUefiPrefix
+                0x0000000000012f30        0xc /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000012f3c        0x4 
+ .data.rel.ro.local.mBmBootDescriptionHandlers
+                0x0000000000012f40       0x30 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEdkiiVariableLockProtocolGuid
+                0x0000000000012f70       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.rel.local.mBmHotkeyList
+                0x0000000000012f80       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000012f80                mBmHotkeyList
+ *fill*         0x0000000000012f90       0x10 
+ .data.mBmHotkeyBootOption
+                0x0000000000012fa0       0x58 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000012ff8        0x8 
+ .data.gEfiComponentNameProtocolGuid
+                0x0000000000013000       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiComponentName2ProtocolGuid
+                0x0000000000013010       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiDriverHealthProtocolGuid
+                0x0000000000013020       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ *fill*         0x0000000000013030       0x10 
+ .data.rel.ro.local.mBmHealthStatusText
+                0x0000000000013040       0x30 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiFormBrowser2ProtocolGuid
+                0x0000000000013070       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.mBmHotkeyLock
+                0x0000000000013080       0x18 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000013080                mBmHotkeyLock
+ *fill*         0x0000000000013098        0x8 
+ .data.gEfiFirmwareVolume2ProtocolGuid
+                0x00000000000130a0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000130a0                gEfiFirmwareVolume2ProtocolGuid
+ .data.gEfiLoadedImageProtocolGuid
+                0x00000000000130b0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000130b0                gEfiLoadedImageProtocolGuid
+ .data.gEfiGlobalVariableGuid
+                0x00000000000130c0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000130c0                gEfiGlobalVariableGuid
+ *fill*         0x00000000000130d0       0x10 
+ .data.rel.ro.local.mBmLoadOptionName
+                0x00000000000130e0       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000130e0                mBmLoadOptionName
+ .data.rel.ro.local.mBmLoadOptionOrderName
+                0x0000000000013100       0x20 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiCallerIdGuid
+                0x0000000000013120       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000013120                gEfiCallerIdGuid
+ .data.gEfiStatusCodeSpecificDataGuid
+                0x0000000000013130       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .data.gEfiLoadedImageDevicePathProtocolGuid
+                0x0000000000013140       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data._gPcd_BinaryPatch_PcdVideoVerticalResolution
+                0x0000000000013150        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data._gPcd_BinaryPatch_PcdVideoHorizontalResolution
+                0x0000000000013154        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ *fill*         0x0000000000013158        0x8 
+ .data.gEdkiiPlatformBootManagerProtocolGuid
+                0x0000000000013160       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiSimpleTextInputExProtocolGuid
+                0x0000000000013170       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiEventReadyToBootGuid
+                0x0000000000013180       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiMemoryTypeInformationGuid
+                0x0000000000013190       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiFileInfoGuid
+                0x00000000000131a0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.mBmAutoCreateBootOptionGuid
+                0x00000000000131b0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data._gPcd_BinaryPatch_PcdSetupConOutRow
+                0x00000000000131c0        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data._gPcd_BinaryPatch_PcdSetupConOutColumn
+                0x00000000000131c4        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data._gPcd_BinaryPatch_PcdSetupVideoVerticalResolution
+                0x00000000000131c8        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data._gPcd_BinaryPatch_PcdSetupVideoHorizontalResolution
+                0x00000000000131cc        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiGraphicsOutputProtocolGuid
+                0x00000000000131d0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.BootManagerMenuAppStrings
+                0x00000000000131e0      0x20e /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ *fill*         0x00000000000133ee        0x2 
+ .data.gEfiBootLogoProtocolGuid
+                0x00000000000133f0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiStatusCodeRuntimeProtocolGuid
+                0x0000000000013400       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiDebugPortProtocolGuid
+                0x0000000000013410       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiSasDevicePathGuid
+                0x0000000000013420       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiUartDevicePathGuid
+                0x0000000000013430       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiVTUTF8Guid
+                0x0000000000013440       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiVT100PlusGuid
+                0x0000000000013450       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiVT100Guid
+                0x0000000000013460       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiPcAnsiGuid
+                0x0000000000013470       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiPersistentVirtualCdGuid
+                0x0000000000013480       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiPersistentVirtualDiskGuid
+                0x0000000000013490       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiVirtualCdGuid
+                0x00000000000134a0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.gEfiVirtualDiskGuid
+                0x00000000000134b0       0x10 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.rel.ro.local.mUefiDevicePathLibToTextTableGeneric
+                0x00000000000134c0       0x60 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.rel.ro.local.mUefiDevicePathLibToTextTable
+                0x0000000000013520      0x320 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .data.rel.ro   0x0000000000013840        0x0 BootManagerMenu.obj (symbol from plugin)
+ *(.bss .bss.*)
+ .bss.mPcd      0x0000000000013840        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .bss.mHobList  0x0000000000013848        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .bss.gHiiImage
+                0x0000000000013850        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .bss.gHiiFont  0x0000000000013858        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .bss.gHiiConfigRouting
+                0x0000000000013860        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .bss.gDS       0x0000000000013868        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .bss.gST       0x0000000000013870        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000013870                gST
+ .bss.mRamDisk  0x0000000000013878        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .bss.gRT       0x0000000000013880        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000013880                gRT
+ .bss.gHiiDatabase
+                0x0000000000013888        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000013888                gHiiDatabase
+ .bss.gImageHandle
+                0x0000000000013890        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000013890                gImageHandle
+ .bss.gHiiString
+                0x0000000000013898        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x0000000000013898                gHiiString
+ .bss.mReportStatusCodeLibStatusCodeProtocol
+                0x00000000000138a0        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000138a0                mReportStatusCodeLibStatusCodeProtocol
+ .bss.gBS       0x00000000000138a8        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                0x00000000000138a8                gBS
+ .bss.mSetupTextModeRow
+                0x00000000000138b0        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .bss.mSetupTextModeColumn
+                0x00000000000138b4        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .bss.mSetupVerticalResolution
+                0x00000000000138b8        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .bss.mSetupHorizontalResolution
+                0x00000000000138bc        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .bss.mBootTextModeRow
+                0x00000000000138c0        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .bss.mBootTextModeColumn
+                0x00000000000138c4        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .bss.mBootVerticalResolution
+                0x00000000000138c8        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .bss.mBootHorizontalResolution
+                0x00000000000138cc        0x4 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .bss.mModeInitialized
+                0x00000000000138d0        0x1 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ *fill*         0x00000000000138d1        0x7 
+ .bss.gStringPackHandle
+                0x00000000000138d8        0x8 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+
+.eh_frame       0x0000000000013900        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000013900        0x0 BootManagerMenu.obj (symbol from plugin)
+ .eh_frame      0x0000000000013900        0x0 BootManagerMenu.obj (symbol from plugin)
+
+.dynbss         0x0000000000013900        0x0
+ .dynbss        0x0000000000013900        0x0 BootManagerMenu.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000013900        0x0
+ .gnu.version_d
+                0x0000000000013900        0x0 BootManagerMenu.obj (symbol from plugin)
+
+.gnu.version    0x0000000000013900        0x0
+ .gnu.version   0x0000000000013900        0x0 BootManagerMenu.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000013900        0x0
+ .gnu.version_r
+                0x0000000000013900        0x0 BootManagerMenu.obj (symbol from plugin)
+
+.rela           0x0000000000013900      0x7c8
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000013900        0x0 BootManagerMenu.obj (symbol from plugin)
+ .rela.got      0x0000000000013900        0x0 BootManagerMenu.obj (symbol from plugin)
+ .rela.bss      0x0000000000013900        0x0 BootManagerMenu.obj (symbol from plugin)
+ .rela.data.rel.ro
+                0x0000000000013900        0x0 BootManagerMenu.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000013900        0x0 BootManagerMenu.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mConVarName
+                0x0000000000013900       0x90 BootManagerMenu.obj (symbol from plugin)
+ .rela.data.rel.local.mPlatformBootDescriptionHandlers
+                0x0000000000013990       0x30 BootManagerMenu.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmBootDescriptionHandlers
+                0x00000000000139c0       0x90 BootManagerMenu.obj (symbol from plugin)
+ .rela.data.rel.local.mBmHotkeyList
+                0x0000000000013a50       0x30 BootManagerMenu.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmHealthStatusText
+                0x0000000000013a80       0x90 BootManagerMenu.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmLoadOptionName
+                0x0000000000013b10       0x60 BootManagerMenu.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmLoadOptionOrderName
+                0x0000000000013b70       0x48 BootManagerMenu.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mUefiDevicePathLibToTextTableGeneric
+                0x0000000000013bb8       0x78 BootManagerMenu.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mUefiDevicePathLibToTextTable
+                0x0000000000013c30      0x498 BootManagerMenu.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x00000000000140c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000140c8       0x24 BootManagerMenu.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Application/BootManagerMenuApp/BootManagerMenuApp/DEBUG/BootManagerMenuApp.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x687b1
+ .debug_info    0x0000000000000000     0xca65 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .debug_info    0x000000000000ca65     0x89b7 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .debug_info    0x000000000001541c     0x27c9 /tmp/ccaKqq50.debug.temp.o
+                0x000000000001541c                BootManagerMenu.c.eec117a5
+ .debug_info    0x0000000000017be5     0x2164 /tmp/cchlcSa3.debug.temp.o
+                0x0000000000017be5                AutoGen.c.954e03a3
+ .debug_info    0x0000000000019d49      0x18d /tmp/ccSAle91.debug.temp.o
+                0x0000000000019d49                BaseDebugPrintErrorLevelLib.c.52becbe2
+ .debug_info    0x0000000000019ed6     0x1e55 /tmp/ccb6KnkZ.debug.temp.o
+                0x0000000000019ed6                ReportStatusCodeLib.c.e7f16b4c
+ .debug_info    0x000000000001bd2b     0x1dce /tmp/ccL33032.debug.temp.o
+                0x000000000001bd2b                DevicePathUtilities.c.bc027faa
+ .debug_info    0x000000000001daf9     0x3d2b /tmp/ccaljvP0.debug.temp.o
+                0x000000000001daf9                DevicePathToText.c.df334663
+ .debug_info    0x0000000000021824     0x1afe /tmp/ccdLYjT1.debug.temp.o
+                0x0000000000021824                UefiDevicePathLib.c.35bded3b
+ .debug_info    0x0000000000023322      0x1db /tmp/ccJbSVv2.debug.temp.o
+                0x0000000000023322                SetMem.c.6ab1b54a
+ .debug_info    0x00000000000234fd      0x17a /tmp/cc9rLgMY.debug.temp.o
+                0x00000000000234fd                ZeroMemWrapper.c.1a2b966d
+ .debug_info    0x0000000000023677      0x1a7 /tmp/ccIeUTZY.debug.temp.o
+                0x0000000000023677                CompareMemWrapper.c.96c57e1f
+ .debug_info    0x000000000002381e      0x191 /tmp/cccXrZ3Z.debug.temp.o
+                0x000000000002381e                CopyMemWrapper.c.8c562a00
+ .debug_info    0x00000000000239af      0x3ef /tmp/ccerylIZ.debug.temp.o
+                0x00000000000239af                MemLibGeneric.c.eaf19fc8
+ .debug_info    0x0000000000023d9e      0x265 /tmp/ccJUEbqZ.debug.temp.o
+                0x0000000000023d9e                MemLibGuid.c.329e3fd6
+ .debug_info    0x0000000000024003      0x21b /tmp/ccPcKKQ0.debug.temp.o
+                0x0000000000024003                CopyMem.c.f159d758
+ .debug_info    0x000000000002421e      0x763 /tmp/ccgaKT51.debug.temp.o
+                0x000000000002421e                PrintLibInternal.c.bf35e791
+ .debug_info    0x0000000000024981      0x658 /tmp/cce7DA60.debug.temp.o
+                0x0000000000024981                PrintLib.c.9a04f816
+ .debug_info    0x0000000000024fd9      0x2b1 /tmp/ccxKqf5Z.debug.temp.o
+                0x0000000000024fd9                LongJump.c.4998087f
+ .debug_info    0x000000000002528a      0x2a5 /tmp/ccAkTox2.debug.temp.o
+                0x000000000002528a                SetJump.c.413347ea
+ .debug_info    0x000000000002552f      0x1db /tmp/ccQmgCk1.debug.temp.o
+                0x000000000002552f                MultU64x32.c.973fe15c
+ .debug_info    0x000000000002570a      0x1db /tmp/ccDFVcU2.debug.temp.o
+                0x000000000002570a                LShiftU64.c.e489f760
+ .debug_info    0x00000000000258e5      0x1e5 /tmp/ccPBjSU1.debug.temp.o
+                0x00000000000258e5                DivU64x32Remainder.c.086207f9
+ .debug_info    0x0000000000025aca      0x1d0 /tmp/ccrK6MX0.debug.temp.o
+                0x0000000000025aca                CpuDeadLoop.c.34ea6ef1
+ .debug_info    0x0000000000025c9a      0x428 /tmp/cchzVvk1.debug.temp.o
+                0x0000000000025c9a                LinkedList.c.411b222b
+ .debug_info    0x00000000000260c2     0x1004 /tmp/ccADs6PY.debug.temp.o
+                0x00000000000260c2                SafeString.c.0f121662
+ .debug_info    0x00000000000270c6      0x7f3 /tmp/cceCbrW2.debug.temp.o
+                0x00000000000270c6                String.c.4381de4c
+ .debug_info    0x00000000000278b9      0x43c /tmp/cceZsXz2.debug.temp.o
+                0x00000000000278b9                Math64.c.9935f58d
+ .debug_info    0x0000000000027cf5      0x2f0 /tmp/ccXd2x5Z.debug.temp.o
+                0x0000000000027cf5                Unaligned.c.8821ebc3
+ .debug_info    0x0000000000027fe5      0x45a /tmp/ccanmBSZ.debug.temp.o
+                0x0000000000027fe5                GccInline.c.fd820db9
+ .debug_info    0x000000000002843f     0x2beb /tmp/cc67mjB1.debug.temp.o
+                0x000000000002843f                DxePcdLib.c.8f33349a
+ .debug_info    0x000000000002b02a     0x1de0 /tmp/ccKQgGn1.debug.temp.o
+                0x000000000002b02a                MemoryAllocationLib.c.e2198fd7
+ .debug_info    0x000000000002ce0a      0x725 /tmp/ccNSiNt2.debug.temp.o
+                0x000000000002ce0a                DebugLib.c.bf38e532
+ .debug_info    0x000000000002d52f     0x18e1 /tmp/ccvwR9f2.debug.temp.o
+                0x000000000002d52f                UefiBootServicesTableLib.c.19396cbb
+ .debug_info    0x000000000002ee10     0x18b2 /tmp/cc3I2pMY.debug.temp.o
+                0x000000000002ee10                UefiRuntimeServicesTableLib.c.26ae4b28
+ .debug_info    0x00000000000306c2     0x2720 /tmp/ccPFUFY0.debug.temp.o
+                0x00000000000306c2                UefiLibPrint.c.ae7db3b9
+ .debug_info    0x0000000000032de2     0x1c06 /tmp/ccRcKko0.debug.temp.o
+                0x0000000000032de2                UefiNotTiano.c.99154a26
+ .debug_info    0x00000000000349e8     0x2307 /tmp/ccGtV1K0.debug.temp.o
+                0x00000000000349e8                UefiDriverModel.c.3c580118
+ .debug_info    0x0000000000036cef     0x2777 /tmp/cctVArQ2.debug.temp.o
+                0x0000000000036cef                UefiLib.c.3ed53a42
+ .debug_info    0x0000000000039466     0x22fe /tmp/ccHltxX2.debug.temp.o
+                0x0000000000039466                HobLib.c.73270f2a
+ .debug_info    0x000000000003b764     0x2959 /tmp/cczL6BAZ.debug.temp.o
+                0x000000000003b764                UefiHiiServicesLib.c.4264ca48
+ .debug_info    0x000000000003e0bd     0x2756 /tmp/cc6ouvX2.debug.temp.o
+                0x000000000003e0bd                DxeServicesLib.c.8d98a33f
+ .debug_info    0x0000000000040813     0x1eae /tmp/ccbeKNq0.debug.temp.o
+                0x0000000000040813                DxeServicesTableLib.c.da2f8564
+ .debug_info    0x00000000000426c1      0xa9b /tmp/ccAYy57Z.debug.temp.o
+                0x00000000000426c1                PeCoffGetEntryPoint.c.689f4783
+ .debug_info    0x000000000004315c      0x409 /tmp/ccigge4Y.debug.temp.o
+                0x000000000004315c                PerformanceLib.c.b690960d
+ .debug_info    0x0000000000043565     0x507f /tmp/ccxF2mh3.debug.temp.o
+                0x0000000000043565                HiiLib.c.c57762f0
+ .debug_info    0x00000000000485e4     0x2b11 /tmp/ccNwRFv2.debug.temp.o
+                0x00000000000485e4                HiiString.c.6a9123c5
+ .debug_info    0x000000000004b0f5     0x2a0e /tmp/cc6rkxEZ.debug.temp.o
+                0x000000000004b0f5                HiiLanguage.c.492a734a
+ .debug_info    0x000000000004db03     0x1929 /tmp/ccbXaWM0.debug.temp.o
+                0x000000000004db03                ApplicationEntryPoint.c.547234d6
+ .debug_info    0x000000000004f42c     0x272c /tmp/ccsheZzZ.debug.temp.o
+                0x000000000004f42c                BmConnect.c.4b297916
+ .debug_info    0x0000000000051b58     0x253b /tmp/cck05lmZ.debug.temp.o
+                0x0000000000051b58                BmMisc.c.8c48855d
+ .debug_info    0x0000000000054093     0x2b62 /tmp/ccRuzeM1.debug.temp.o
+                0x0000000000054093                BmConsole.c.cc64c446
+ .debug_info    0x0000000000056bf5     0x3e41 /tmp/cchT7JJY.debug.temp.o
+                0x0000000000056bf5                BmBoot.c.4a027831
+ .debug_info    0x000000000005aa36     0x5375 /tmp/ccWMox00.debug.temp.o
+                0x000000000005aa36                BmBootDescription.c.70b7e6c5
+ .debug_info    0x000000000005fdab     0x3384 /tmp/ccOeh8RZ.debug.temp.o
+                0x000000000005fdab                BmLoadOption.c.64d21531
+ .debug_info    0x000000000006312f     0x2e64 /tmp/ccM2oa4Y.debug.temp.o
+                0x000000000006312f                BmHotkey.c.33a44e6d
+ .debug_info    0x0000000000065f93     0x281e /tmp/cc3nwW52.debug.temp.o
+                0x0000000000065f93                BmDriverHealth.c.4a2b7f52
+
+.debug_abbrev   0x0000000000000000     0x6350
+ .debug_abbrev  0x0000000000000000      0x2c1 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .debug_abbrev  0x00000000000002c1      0x210 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .debug_abbrev  0x00000000000004d1      0x274 /tmp/ccaKqq50.debug.temp.o
+ .debug_abbrev  0x0000000000000745      0x23d /tmp/cchlcSa3.debug.temp.o
+ .debug_abbrev  0x0000000000000982       0xc6 /tmp/ccSAle91.debug.temp.o
+ .debug_abbrev  0x0000000000000a48      0x27a /tmp/ccb6KnkZ.debug.temp.o
+ .debug_abbrev  0x0000000000000cc2      0x240 /tmp/ccL33032.debug.temp.o
+ .debug_abbrev  0x0000000000000f02      0x2b9 /tmp/ccaljvP0.debug.temp.o
+ .debug_abbrev  0x00000000000011bb      0x1fe /tmp/ccdLYjT1.debug.temp.o
+ .debug_abbrev  0x00000000000013b9       0xc9 /tmp/ccJbSVv2.debug.temp.o
+ .debug_abbrev  0x0000000000001482       0xb1 /tmp/cc9rLgMY.debug.temp.o
+ .debug_abbrev  0x0000000000001533       0xb1 /tmp/ccIeUTZY.debug.temp.o
+ .debug_abbrev  0x00000000000015e4       0xb8 /tmp/cccXrZ3Z.debug.temp.o
+ .debug_abbrev  0x000000000000169c      0x114 /tmp/ccerylIZ.debug.temp.o
+ .debug_abbrev  0x00000000000017b0       0xce /tmp/ccJUEbqZ.debug.temp.o
+ .debug_abbrev  0x000000000000187e       0xd5 /tmp/ccPcKKQ0.debug.temp.o
+ .debug_abbrev  0x0000000000001953      0x149 /tmp/ccgaKT51.debug.temp.o
+ .debug_abbrev  0x0000000000001a9c      0x138 /tmp/cce7DA60.debug.temp.o
+ .debug_abbrev  0x0000000000001bd4       0xd1 /tmp/ccxKqf5Z.debug.temp.o
+ .debug_abbrev  0x0000000000001ca5       0xd1 /tmp/ccAkTox2.debug.temp.o
+ .debug_abbrev  0x0000000000001d76       0xc0 /tmp/ccQmgCk1.debug.temp.o
+ .debug_abbrev  0x0000000000001e36       0xb1 /tmp/ccDFVcU2.debug.temp.o
+ .debug_abbrev  0x0000000000001ee7       0xb3 /tmp/ccPBjSU1.debug.temp.o
+ .debug_abbrev  0x0000000000001f9a       0xb6 /tmp/ccrK6MX0.debug.temp.o
+ .debug_abbrev  0x0000000000002050      0x139 /tmp/cchzVvk1.debug.temp.o
+ .debug_abbrev  0x0000000000002189      0x138 /tmp/ccADs6PY.debug.temp.o
+ .debug_abbrev  0x00000000000022c1      0x126 /tmp/cceCbrW2.debug.temp.o
+ .debug_abbrev  0x00000000000023e7       0xf9 /tmp/cceZsXz2.debug.temp.o
+ .debug_abbrev  0x00000000000024e0       0xb3 /tmp/ccXd2x5Z.debug.temp.o
+ .debug_abbrev  0x0000000000002593      0x164 /tmp/ccanmBSZ.debug.temp.o
+ .debug_abbrev  0x00000000000026f7      0x25c /tmp/cc67mjB1.debug.temp.o
+ .debug_abbrev  0x0000000000002953      0x242 /tmp/ccKQgGn1.debug.temp.o
+ .debug_abbrev  0x0000000000002b95      0x1dd /tmp/ccNSiNt2.debug.temp.o
+ .debug_abbrev  0x0000000000002d72      0x1dd /tmp/ccvwR9f2.debug.temp.o
+ .debug_abbrev  0x0000000000002f4f      0x1c3 /tmp/cc3I2pMY.debug.temp.o
+ .debug_abbrev  0x0000000000003112      0x272 /tmp/ccPFUFY0.debug.temp.o
+ .debug_abbrev  0x0000000000003384      0x233 /tmp/ccRcKko0.debug.temp.o
+ .debug_abbrev  0x00000000000035b7      0x21c /tmp/ccGtV1K0.debug.temp.o
+ .debug_abbrev  0x00000000000037d3      0x256 /tmp/cctVArQ2.debug.temp.o
+ .debug_abbrev  0x0000000000003a29      0x25a /tmp/ccHltxX2.debug.temp.o
+ .debug_abbrev  0x0000000000003c83      0x216 /tmp/cczL6BAZ.debug.temp.o
+ .debug_abbrev  0x0000000000003e99      0x225 /tmp/cc6ouvX2.debug.temp.o
+ .debug_abbrev  0x00000000000040be      0x1ea /tmp/ccbeKNq0.debug.temp.o
+ .debug_abbrev  0x00000000000042a8      0x1a3 /tmp/ccAYy57Z.debug.temp.o
+ .debug_abbrev  0x000000000000444b      0x111 /tmp/ccigge4Y.debug.temp.o
+ .debug_abbrev  0x000000000000455c      0x304 /tmp/ccxF2mh3.debug.temp.o
+ .debug_abbrev  0x0000000000004860      0x22b /tmp/ccNwRFv2.debug.temp.o
+ .debug_abbrev  0x0000000000004a8b      0x209 /tmp/cc6rkxEZ.debug.temp.o
+ .debug_abbrev  0x0000000000004c94      0x1fc /tmp/ccbXaWM0.debug.temp.o
+ .debug_abbrev  0x0000000000004e90      0x214 /tmp/ccsheZzZ.debug.temp.o
+ .debug_abbrev  0x00000000000050a4      0x25a /tmp/cck05lmZ.debug.temp.o
+ .debug_abbrev  0x00000000000052fe      0x258 /tmp/ccRuzeM1.debug.temp.o
+ .debug_abbrev  0x0000000000005556      0x281 /tmp/cchT7JJY.debug.temp.o
+ .debug_abbrev  0x00000000000057d7      0x382 /tmp/ccWMox00.debug.temp.o
+ .debug_abbrev  0x0000000000005b59      0x2b7 /tmp/ccOeh8RZ.debug.temp.o
+ .debug_abbrev  0x0000000000005e10      0x2d4 /tmp/ccM2oa4Y.debug.temp.o
+ .debug_abbrev  0x00000000000060e4      0x26c /tmp/cc3nwW52.debug.temp.o
+
+.debug_loc      0x0000000000000000    0x1cb93
+ .debug_loc     0x0000000000000000    0x11020 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .debug_loc     0x0000000000011020     0xbb73 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xc20
+ .debug_aranges
+                0x0000000000000000      0x700 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000700      0x520 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x5660
+ .debug_ranges  0x0000000000000000     0x29f0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .debug_ranges  0x00000000000029f0     0x2c70 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+
+.debug_line     0x0000000000000000    0x16900
+ .debug_line    0x0000000000000000     0x8591 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .debug_line    0x0000000000008591     0x51f6 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+ .debug_line    0x000000000000d787      0x3e6 /tmp/ccaKqq50.debug.temp.o
+ .debug_line    0x000000000000db6d      0x2b7 /tmp/cchlcSa3.debug.temp.o
+ .debug_line    0x000000000000de24      0x164 /tmp/ccSAle91.debug.temp.o
+ .debug_line    0x000000000000df88      0x3a0 /tmp/ccb6KnkZ.debug.temp.o
+ .debug_line    0x000000000000e328      0x300 /tmp/ccL33032.debug.temp.o
+ .debug_line    0x000000000000e628      0x353 /tmp/ccaljvP0.debug.temp.o
+ .debug_line    0x000000000000e97b      0x2fe /tmp/ccdLYjT1.debug.temp.o
+ .debug_line    0x000000000000ec79      0x125 /tmp/ccJbSVv2.debug.temp.o
+ .debug_line    0x000000000000ed9e      0x12d /tmp/cc9rLgMY.debug.temp.o
+ .debug_line    0x000000000000eecb      0x130 /tmp/ccIeUTZY.debug.temp.o
+ .debug_line    0x000000000000effb      0x12d /tmp/cccXrZ3Z.debug.temp.o
+ .debug_line    0x000000000000f128      0x12c /tmp/ccerylIZ.debug.temp.o
+ .debug_line    0x000000000000f254      0x129 /tmp/ccJUEbqZ.debug.temp.o
+ .debug_line    0x000000000000f37d      0x126 /tmp/ccPcKKQ0.debug.temp.o
+ .debug_line    0x000000000000f4a3      0x142 /tmp/ccgaKT51.debug.temp.o
+ .debug_line    0x000000000000f5e5      0x124 /tmp/cce7DA60.debug.temp.o
+ .debug_line    0x000000000000f709      0x149 /tmp/ccxKqf5Z.debug.temp.o
+ .debug_line    0x000000000000f852      0x148 /tmp/ccAkTox2.debug.temp.o
+ .debug_line    0x000000000000f99a      0x117 /tmp/ccQmgCk1.debug.temp.o
+ .debug_line    0x000000000000fab1      0x116 /tmp/ccDFVcU2.debug.temp.o
+ .debug_line    0x000000000000fbc7      0x11f /tmp/ccPBjSU1.debug.temp.o
+ .debug_line    0x000000000000fce6      0x118 /tmp/ccrK6MX0.debug.temp.o
+ .debug_line    0x000000000000fdfe      0x117 /tmp/cchzVvk1.debug.temp.o
+ .debug_line    0x000000000000ff15      0x117 /tmp/ccADs6PY.debug.temp.o
+ .debug_line    0x000000000001002c      0x113 /tmp/cceCbrW2.debug.temp.o
+ .debug_line    0x000000000001013f      0x113 /tmp/cceZsXz2.debug.temp.o
+ .debug_line    0x0000000000010252      0x116 /tmp/ccXd2x5Z.debug.temp.o
+ .debug_line    0x0000000000010368      0x14e /tmp/ccanmBSZ.debug.temp.o
+ .debug_line    0x00000000000104b6      0x30a /tmp/cc67mjB1.debug.temp.o
+ .debug_line    0x00000000000107c0      0x2bc /tmp/ccKQgGn1.debug.temp.o
+ .debug_line    0x0000000000010a7c      0x371 /tmp/ccNSiNt2.debug.temp.o
+ .debug_line    0x0000000000010ded      0x2c4 /tmp/ccvwR9f2.debug.temp.o
+ .debug_line    0x00000000000110b1      0x28b /tmp/cc3I2pMY.debug.temp.o
+ .debug_line    0x000000000001133c      0x327 /tmp/ccPFUFY0.debug.temp.o
+ .debug_line    0x0000000000011663      0x2d5 /tmp/ccRcKko0.debug.temp.o
+ .debug_line    0x0000000000011938      0x374 /tmp/ccGtV1K0.debug.temp.o
+ .debug_line    0x0000000000011cac      0x2f3 /tmp/cctVArQ2.debug.temp.o
+ .debug_line    0x0000000000011f9f      0x355 /tmp/ccHltxX2.debug.temp.o
+ .debug_line    0x00000000000122f4      0x386 /tmp/cczL6BAZ.debug.temp.o
+ .debug_line    0x000000000001267a      0x411 /tmp/cc6ouvX2.debug.temp.o
+ .debug_line    0x0000000000012a8b      0x3b3 /tmp/ccbeKNq0.debug.temp.o
+ .debug_line    0x0000000000012e3e      0x196 /tmp/ccAYy57Z.debug.temp.o
+ .debug_line    0x0000000000012fd4      0x148 /tmp/ccigge4Y.debug.temp.o
+ .debug_line    0x000000000001311c      0x47f /tmp/ccxF2mh3.debug.temp.o
+ .debug_line    0x000000000001359b      0x470 /tmp/ccNwRFv2.debug.temp.o
+ .debug_line    0x0000000000013a0b      0x472 /tmp/cc6rkxEZ.debug.temp.o
+ .debug_line    0x0000000000013e7d      0x2e3 /tmp/ccbXaWM0.debug.temp.o
+ .debug_line    0x0000000000014160      0x45d /tmp/ccsheZzZ.debug.temp.o
+ .debug_line    0x00000000000145bd      0x4e6 /tmp/cck05lmZ.debug.temp.o
+ .debug_line    0x0000000000014aa3      0x4dd /tmp/ccRuzeM1.debug.temp.o
+ .debug_line    0x0000000000014f80      0x57b /tmp/cchT7JJY.debug.temp.o
+ .debug_line    0x00000000000154fb      0x55a /tmp/ccWMox00.debug.temp.o
+ .debug_line    0x0000000000015a55      0x524 /tmp/ccOeh8RZ.debug.temp.o
+ .debug_line    0x0000000000015f79      0x4a3 /tmp/ccM2oa4Y.debug.temp.o
+ .debug_line    0x000000000001641c      0x4e4 /tmp/cc3nwW52.debug.temp.o
+
+.debug_str      0x0000000000000000     0xe5e7
+ .debug_str     0x0000000000000000      0x316 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+                                        0x328 (size before relaxing)
+ .debug_str     0x0000000000000316       0xf0 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o
+                                        0x3e8 (size before relaxing)
+ .debug_str     0x0000000000000406     0x2419 /tmp/ccaKqq50.debug.temp.o
+                                       0x27a7 (size before relaxing)
+ .debug_str     0x000000000000281f      0x63f /tmp/cchlcSa3.debug.temp.o
+                                       0x23f0 (size before relaxing)
+ .debug_str     0x0000000000002e5e      0x101 /tmp/ccSAle91.debug.temp.o
+                                        0x39f (size before relaxing)
+ .debug_str     0x0000000000002f5f      0x3fc /tmp/ccb6KnkZ.debug.temp.o
+                                       0x19f4 (size before relaxing)
+ .debug_str     0x000000000000335b      0x3d3 /tmp/ccL33032.debug.temp.o
+                                       0x1984 (size before relaxing)
+ .debug_str     0x000000000000372e      0xe33 /tmp/ccaljvP0.debug.temp.o
+                                       0x25ab (size before relaxing)
+ .debug_str     0x0000000000004561       0x93 /tmp/ccdLYjT1.debug.temp.o
+                                       0x17ba (size before relaxing)
+ .debug_str     0x00000000000045f4       0xd1 /tmp/ccJbSVv2.debug.temp.o
+                                        0x332 (size before relaxing)
+ .debug_str     0x00000000000046c5       0x3e /tmp/cc9rLgMY.debug.temp.o
+                                        0x305 (size before relaxing)
+ .debug_str     0x0000000000004703       0x60 /tmp/ccIeUTZY.debug.temp.o
+                                        0x32e (size before relaxing)
+ .debug_str     0x0000000000004763       0x3e /tmp/cccXrZ3Z.debug.temp.o
+                                        0x31d (size before relaxing)
+ .debug_str     0x00000000000047a1      0x118 /tmp/ccerylIZ.debug.temp.o
+                                        0x41a (size before relaxing)
+ .debug_str     0x00000000000048b9       0xe1 /tmp/ccJUEbqZ.debug.temp.o
+                                        0x3b1 (size before relaxing)
+ .debug_str     0x000000000000499a       0x8d /tmp/ccPcKKQ0.debug.temp.o
+                                        0x366 (size before relaxing)
+ .debug_str     0x0000000000004a27      0x2ba /tmp/ccgaKT51.debug.temp.o
+                                        0x6a8 (size before relaxing)
+ .debug_str     0x0000000000004ce1      0x17e /tmp/cce7DA60.debug.temp.o
+                                        0x53e (size before relaxing)
+ .debug_str     0x0000000000004e5f       0xb4 /tmp/ccxKqf5Z.debug.temp.o
+                                        0x44e (size before relaxing)
+ .debug_str     0x0000000000004f13       0x4a /tmp/ccAkTox2.debug.temp.o
+                                        0x457 (size before relaxing)
+ .debug_str     0x0000000000004f5d       0x53 /tmp/ccQmgCk1.debug.temp.o
+                                        0x431 (size before relaxing)
+ .debug_str     0x0000000000004fb0       0x3b /tmp/ccDFVcU2.debug.temp.o
+                                        0x424 (size before relaxing)
+ .debug_str     0x0000000000004feb       0x60 /tmp/ccPBjSU1.debug.temp.o
+                                        0x43d (size before relaxing)
+ .debug_str     0x000000000000504b       0x41 /tmp/ccrK6MX0.debug.temp.o
+                                        0x420 (size before relaxing)
+ .debug_str     0x000000000000508c      0x12d /tmp/cchzVvk1.debug.temp.o
+                                        0x530 (size before relaxing)
+ .debug_str     0x00000000000051b9      0x2bc /tmp/ccADs6PY.debug.temp.o
+                                        0x7ec (size before relaxing)
+ .debug_str     0x0000000000005475      0x2cc /tmp/cceCbrW2.debug.temp.o
+                                        0x7a1 (size before relaxing)
+ .debug_str     0x0000000000005741      0x179 /tmp/cceZsXz2.debug.temp.o
+                                        0x59e (size before relaxing)
+ .debug_str     0x00000000000058ba       0xb7 /tmp/ccXd2x5Z.debug.temp.o
+                                        0x497 (size before relaxing)
+ .debug_str     0x0000000000005971      0x170 /tmp/ccanmBSZ.debug.temp.o
+                                        0x562 (size before relaxing)
+ .debug_str     0x0000000000005ae1      0x981 /tmp/cc67mjB1.debug.temp.o
+                                       0x20fa (size before relaxing)
+ .debug_str     0x0000000000006462      0x2ec /tmp/ccKQgGn1.debug.temp.o
+                                       0x17bb (size before relaxing)
+ .debug_str     0x000000000000674e      0x1f8 /tmp/ccNSiNt2.debug.temp.o
+                                        0x906 (size before relaxing)
+ .debug_str     0x0000000000006946       0xe9 /tmp/ccvwR9f2.debug.temp.o
+                                       0x154f (size before relaxing)
+ .debug_str     0x0000000000006a2f       0xf8 /tmp/cc3I2pMY.debug.temp.o
+                                       0x1551 (size before relaxing)
+ .debug_str     0x0000000000006b27      0x517 /tmp/ccPFUFY0.debug.temp.o
+                                       0x2122 (size before relaxing)
+ .debug_str     0x000000000000703e      0x179 /tmp/ccRcKko0.debug.temp.o
+                                       0x1a51 (size before relaxing)
+ .debug_str     0x00000000000071b7      0x6b3 /tmp/ccGtV1K0.debug.temp.o
+                                       0x208c (size before relaxing)
+ .debug_str     0x000000000000786a      0x5d9 /tmp/cctVArQ2.debug.temp.o
+                                       0x2070 (size before relaxing)
+ .debug_str     0x0000000000007e43      0x5ad /tmp/ccHltxX2.debug.temp.o
+                                       0x1bf5 (size before relaxing)
+ .debug_str     0x00000000000083f0      0x67b /tmp/cczL6BAZ.debug.temp.o
+                                       0x21ac (size before relaxing)
+ .debug_str     0x0000000000008a6b      0x4ec /tmp/cc6ouvX2.debug.temp.o
+                                       0x1ef5 (size before relaxing)
+ .debug_str     0x0000000000008f57      0x619 /tmp/ccbeKNq0.debug.temp.o
+                                       0x1c16 (size before relaxing)
+ .debug_str     0x0000000000009570      0x615 /tmp/ccAYy57Z.debug.temp.o
+                                        0x8e1 (size before relaxing)
+ .debug_str     0x0000000000009b85      0x1cf /tmp/ccigge4Y.debug.temp.o
+                                        0x4e0 (size before relaxing)
+ .debug_str     0x0000000000009d54      0xf41 /tmp/ccxF2mh3.debug.temp.o
+                                       0x3597 (size before relaxing)
+ .debug_str     0x000000000000ac95       0xa4 /tmp/ccNwRFv2.debug.temp.o
+                                       0x2402 (size before relaxing)
+ .debug_str     0x000000000000ad39       0x7b /tmp/cc6rkxEZ.debug.temp.o
+                                       0x2393 (size before relaxing)
+ .debug_str     0x000000000000adb4       0xdf /tmp/ccbXaWM0.debug.temp.o
+                                       0x1561 (size before relaxing)
+ .debug_str     0x000000000000ae93      0x74c /tmp/ccsheZzZ.debug.temp.o
+                                       0x27f4 (size before relaxing)
+ .debug_str     0x000000000000b5df      0x284 /tmp/cck05lmZ.debug.temp.o
+                                       0x24ff (size before relaxing)
+ .debug_str     0x000000000000b863      0x3d2 /tmp/ccRuzeM1.debug.temp.o
+                                       0x2b77 (size before relaxing)
+ .debug_str     0x000000000000bc35      0xe4f /tmp/cchT7JJY.debug.temp.o
+                                       0x3638 (size before relaxing)
+ .debug_str     0x000000000000ca84      0xd33 /tmp/ccWMox00.debug.temp.o
+                                       0x42cd (size before relaxing)
+ .debug_str     0x000000000000d7b7      0x4b3 /tmp/ccOeh8RZ.debug.temp.o
+                                       0x2d26 (size before relaxing)
+ .debug_str     0x000000000000dc6a      0x5f1 /tmp/ccM2oa4Y.debug.temp.o
+                                       0x2a0a (size before relaxing)
+ .debug_str     0x000000000000e25b      0x38c /tmp/cc3nwW52.debug.temp.o
+                                       0x27ca (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x41f0
+ .debug_frame   0x0000000000000000     0x2a58 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans0.ltrans.o
+ .debug_frame   0x0000000000002a58     0x1798 /tmp/BootManagerMenuApp.dll.KwHfJY.ltrans1.ltrans.o

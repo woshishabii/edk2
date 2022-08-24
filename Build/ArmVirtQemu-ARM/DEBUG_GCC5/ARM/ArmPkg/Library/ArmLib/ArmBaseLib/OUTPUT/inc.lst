@@ -1,0 +1,9 @@
+-I/workspace/edk2/ArmPkg/Library/ArmLib/Arm
+-I/workspace/edk2/ArmPkg/Library/ArmLib
+-I/workspace/edk2/Build/ArmVirtQemu-ARM/DEBUG_GCC5/ARM/ArmPkg/Library/ArmLib/ArmBaseLib/DEBUG
+-I/workspace/edk2/ArmPkg
+-I/workspace/edk2/ArmPkg/Include
+-I/workspace/edk2/MdePkg
+-I/workspace/edk2/MdePkg/Include
+-I/workspace/edk2/MdePkg/Test/UnitTest/Include
+-I/workspace/edk2/MdePkg/Include/Arm

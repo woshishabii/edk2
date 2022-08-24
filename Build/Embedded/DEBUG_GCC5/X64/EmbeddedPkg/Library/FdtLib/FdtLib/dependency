@@ -1,0 +1,23 @@
+
+
+-include /workspace/edk2/Build/Embedded/DEBUG_GCC5/X64/EmbeddedPkg/Library/FdtLib/FdtLib/OUTPUT/fdt.obj.deps
+
+-include /workspace/edk2/Build/Embedded/DEBUG_GCC5/X64/EmbeddedPkg/Library/FdtLib/FdtLib/OUTPUT/fdt_addresses.obj.deps
+
+-include /workspace/edk2/Build/Embedded/DEBUG_GCC5/X64/EmbeddedPkg/Library/FdtLib/FdtLib/OUTPUT/fdt_empty_tree.obj.deps
+
+-include /workspace/edk2/Build/Embedded/DEBUG_GCC5/X64/EmbeddedPkg/Library/FdtLib/FdtLib/OUTPUT/fdt_overlay.obj.deps
+
+-include /workspace/edk2/Build/Embedded/DEBUG_GCC5/X64/EmbeddedPkg/Library/FdtLib/FdtLib/OUTPUT/fdt_ro.obj.deps
+
+-include /workspace/edk2/Build/Embedded/DEBUG_GCC5/X64/EmbeddedPkg/Library/FdtLib/FdtLib/OUTPUT/fdt_rw.obj.deps
+
+-include /workspace/edk2/Build/Embedded/DEBUG_GCC5/X64/EmbeddedPkg/Library/FdtLib/FdtLib/OUTPUT/fdt_strerror.obj.deps
+
+-include /workspace/edk2/Build/Embedded/DEBUG_GCC5/X64/EmbeddedPkg/Library/FdtLib/FdtLib/OUTPUT/fdt_strtoul.obj.deps
+
+-include /workspace/edk2/Build/Embedded/DEBUG_GCC5/X64/EmbeddedPkg/Library/FdtLib/FdtLib/OUTPUT/fdt_sw.obj.deps
+
+-include /workspace/edk2/Build/Embedded/DEBUG_GCC5/X64/EmbeddedPkg/Library/FdtLib/FdtLib/OUTPUT/fdt_wip.obj.deps
+
+               

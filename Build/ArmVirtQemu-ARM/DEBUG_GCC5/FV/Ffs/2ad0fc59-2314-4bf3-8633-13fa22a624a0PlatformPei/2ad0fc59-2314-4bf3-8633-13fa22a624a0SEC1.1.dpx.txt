@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PEI_DEPEX -o /workspace/edk2/Build/ArmVirtQemu-ARM/DEBUG_GCC5/FV/Ffs/2ad0fc59-2314-4bf3-8633-13fa22a624a0PlatformPei/2ad0fc59-2314-4bf3-8633-13fa22a624a0SEC1.1.dpx /workspace/edk2/Build/ArmVirtQemu-ARM/DEBUG_GCC5/ARM/ArmPlatformPkg/PlatformPei/PlatformPeim/OUTPUT/PlatformPei.depex

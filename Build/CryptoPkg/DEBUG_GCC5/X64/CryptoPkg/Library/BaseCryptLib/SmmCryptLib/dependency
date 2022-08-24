@@ -1,0 +1,53 @@
+
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Hash/CryptMd5.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Hash/CryptSha1.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Hash/CryptSha256.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Hash/CryptSha512Null.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Hash/CryptSm3.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Hmac/CryptHmacSha256.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Kdf/CryptHkdfNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Cipher/CryptAes.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptAuthenticodeNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptDhNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptPkcs1Oaep.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptPkcs5Pbkdf2.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptPkcs7SignNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptPkcs7VerifyBase.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptPkcs7VerifyCommon.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptPkcs7VerifyEku.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptRsaBasic.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptRsaExtNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptTsNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pk/CryptX509.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Pem/CryptPem.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/SysCall/BaseMemAllocation.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/SysCall/ConstantTimeClock.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/SysCall/CrtWrapper.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/SmmCryptLib/OUTPUT/Rand/CryptRandTsc.obj.deps
+
+               

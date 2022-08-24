@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_DXE_DEPEX -o /workspace/edk2/Build/ArmVirtQemu-ARM/DEBUG_GCC5/FV/Ffs/93B80004-9FB3-11d4-9A3A-0090273FC14DPciBusDxe/93B80004-9FB3-11d4-9A3A-0090273FC14DSEC1.1.dpx /workspace/edk2/Build/ArmVirtQemu-ARM/DEBUG_GCC5/ARM/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe/OUTPUT/PciBusDxe.depex

@@ -1,0 +1,53 @@
+
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Hash/CryptMd5.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Hash/CryptSha1.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Hash/CryptSha256.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Hash/CryptSha512.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Hash/CryptSm3.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Hmac/CryptHmacSha256.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Kdf/CryptHkdf.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Cipher/CryptAesNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptAuthenticodeNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptDhNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptPkcs1OaepNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptPkcs5Pbkdf2Null.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptPkcs7SignNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptPkcs7VerifyBase.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptPkcs7VerifyCommon.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptPkcs7VerifyEku.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptRsaBasic.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptRsaExtNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptTsNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pk/CryptX509Null.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Pem/CryptPemNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/Rand/CryptRandNull.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/SysCall/BaseMemAllocation.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/SysCall/ConstantTimeClock.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Library/BaseCryptLib/PeiCryptLib/OUTPUT/SysCall/CrtWrapper.obj.deps
+
+               

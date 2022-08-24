@@ -1,0 +1,15 @@
+
+
+-include /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DriverSampleDxe/DriverSampleDxe/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DriverSampleDxe/DriverSampleDxe/OUTPUT/DriverSample.obj.deps
+
+-include /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DriverSampleDxe/DriverSampleDxe/OUTPUT/Inventory.obj.deps
+
+-include /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DriverSampleDxe/DriverSampleDxe/OUTPUT/Vfr.obj.deps
+
+-include /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DriverSampleDxe/DriverSampleDxe/DEBUG/Inventory.c.deps
+
+-include /workspace/edk2/Build/EmulatorX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DriverSampleDxe/DriverSampleDxe/DEBUG/Vfr.c.deps
+
+               

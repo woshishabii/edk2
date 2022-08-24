@@ -1,0 +1,33 @@
+
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/AuthenticodeTests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/AutoGen.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/BaseCryptLibUnitTests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/BlockCipherTests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/DhTests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/HashTests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/HmacTests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/OaepEncryptTests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/Pkcs5Pbkdf2Tests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/Pkcs7EkuTests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/RandTests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/RsaPkcs7Tests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/RsaTests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/TSTests.obj.deps
+
+-include /workspace/edk2/Build/CryptoPkg/DEBUG_GCC5/X64/CryptoPkg/Test/UnitTest/Library/BaseCryptLib/TestBaseCryptLibShell/OUTPUT/UnitTestMain.obj.deps
+
+               
