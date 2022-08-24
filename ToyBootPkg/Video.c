@@ -88,7 +88,9 @@ EFI_STATUS SetVideoMode(
         }
     }
 
-    Status = Gop->SetMode(Gop, ModeIndex);    
+    Status = Gop->SetMode(Gop, ModeIndex);
+
+    Print(L"%llx.\n", Gop->Mode->FrameBufferBase);    
 
     #ifdef DEBUG
     if(EFI_ERROR(Status))

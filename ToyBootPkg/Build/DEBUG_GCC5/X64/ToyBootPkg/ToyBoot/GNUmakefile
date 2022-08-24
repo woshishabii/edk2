@@ -197,15 +197,6 @@ MAKE_FILE = $(MODULE_BUILD_DIR)/GNUmakefile
 #
 # Build Macro
 #
-OBJECT_FILES =  \
-    $(OUTPUT_DIR)/AutoGen.obj \
-    $(OUTPUT_DIR)/Boot.obj \
-    $(OUTPUT_DIR)/File.obj \
-    $(OUTPUT_DIR)/Log.obj \
-    $(OUTPUT_DIR)/Motion.obj \
-    $(OUTPUT_DIR)/Tools.obj \
-    $(OUTPUT_DIR)/Video.obj
-
 STATIC_LIBRARY_FILES =  \
     $(BIN_DIR)/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib \
     $(BIN_DIR)/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib \
@@ -221,6 +212,15 @@ STATIC_LIBRARY_FILES =  \
     $(BIN_DIR)/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib \
     $(OUTPUT_DIR)/ToyBoot.lib
 
+OBJECT_FILES =  \
+    $(OUTPUT_DIR)/AutoGen.obj \
+    $(OUTPUT_DIR)/Boot.obj \
+    $(OUTPUT_DIR)/File.obj \
+    $(OUTPUT_DIR)/Log.obj \
+    $(OUTPUT_DIR)/Motion.obj \
+    $(OUTPUT_DIR)/Tools.obj \
+    $(OUTPUT_DIR)/Video.obj
+
 INC =  \
     -I$(WORKSPACE)/ToyBootPkg \
     -I$(DEBUG_DIR) \
@@ -229,8 +229,8 @@ INC =  \
     -I$(WORKSPACE)/MdePkg/Test/UnitTest/Include \
     -I$(WORKSPACE)/MdePkg/Include/X64
 
-OBJECT_FILES_LIST = /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/OUTPUT/object_files.lst
 STATIC_LIBRARY_FILES_LIST = /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/OUTPUT/static_library_files.lst
+OBJECT_FILES_LIST = /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/OUTPUT/object_files.lst
 
 
 #
@@ -327,6 +327,22 @@ include $(MODULE_BUILD_DIR)/deps_target
 #
 # Individual Object Build Targets
 #
+$(DEBUG_DIR)/ToyBoot.dll : $(MAKE_FILE)
+$(DEBUG_DIR)/ToyBoot.dll : $(STATIC_LIBRARY_FILES)
+$(DEBUG_DIR)/ToyBoot.dll : $(STATIC_LIBRARY_FILES_LIST)
+	"$(DLINK)" -o /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
+	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll
+
+$(OUTPUT_DIR)/ToyBoot.efi : $(DEBUG_DIR)/ToyBoot.dll
+	$(CP) /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
+	$(OBJCOPY) --strip-unneeded -R .eh_frame /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll
+	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll
+	-$(CP) $(DEBUG_DIR)/$(MODULE_NAME).debug $(BIN_DIR)/$(MODULE_NAME_GUID).debug
+	"$(GENFW)" -e $(MODULE_TYPE) -o /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/OUTPUT/ToyBoot.efi /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll $(GENFW_FLAGS)
+	$(CP) /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/OUTPUT/ToyBoot.efi $(DEBUG_DIR)
+	$(CP) /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/OUTPUT/ToyBoot.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
+	-$(CP) $(DEBUG_DIR)/*.map $(OUTPUT_DIR)
+
 $(OUTPUT_DIR)/Log.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/Log.obj : $(DEBUG_DIR)/AutoGen.h
 $(OUTPUT_DIR)/Log.obj : $(WORKSPACE)/ToyBootPkg/Log.c
@@ -366,22 +382,6 @@ $(OUTPUT_DIR)/ToyBoot.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/ToyBoot.lib : $(OBJECT_FILES_LIST)
 	$(RM) /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/OUTPUT/ToyBoot.lib
 	"$(SLINK)" cr /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/OUTPUT/ToyBoot.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
-
-$(DEBUG_DIR)/ToyBoot.dll : $(MAKE_FILE)
-$(DEBUG_DIR)/ToyBoot.dll : $(STATIC_LIBRARY_FILES)
-$(DEBUG_DIR)/ToyBoot.dll : $(STATIC_LIBRARY_FILES_LIST)
-	"$(DLINK)" -o /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
-	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll
-
-$(OUTPUT_DIR)/ToyBoot.efi : $(DEBUG_DIR)/ToyBoot.dll
-	$(CP) /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
-	$(OBJCOPY) --strip-unneeded -R .eh_frame /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll
-	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll
-	-$(CP) $(DEBUG_DIR)/$(MODULE_NAME).debug $(BIN_DIR)/$(MODULE_NAME_GUID).debug
-	"$(GENFW)" -e $(MODULE_TYPE) -o /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/OUTPUT/ToyBoot.efi /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/DEBUG/ToyBoot.dll $(GENFW_FLAGS)
-	$(CP) /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/OUTPUT/ToyBoot.efi $(DEBUG_DIR)
-	$(CP) /workspace/edk2/ToyBootPkg/Build/DEBUG_GCC5/X64/ToyBootPkg/ToyBoot/OUTPUT/ToyBoot.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
-	-$(CP) $(DEBUG_DIR)/*.map $(OUTPUT_DIR)
 
 
 

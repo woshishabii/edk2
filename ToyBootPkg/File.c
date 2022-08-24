@@ -24,6 +24,7 @@ EFI_STATUS GetFileHandle(
     }
     Print(L"SUCCESS:Get %d handles that supported SimpleFileSystemProtocol.\n", HandleCount);
     #endif
+
     EFI_SIMPLE_FILE_SYSTEM_PROTOCOL *FileSystem;
     Status = gBS->OpenProtocol(
         HandleBuffer[0],
@@ -42,7 +43,6 @@ EFI_STATUS GetFileHandle(
 
     Print(L"SUCCESS:SimpleFileSystemProtocol is opened with first handle.\n");
     #endif
-    
     EFI_FILE_PROTOCOL *Root;
     Status = FileSystem->OpenVolume(
         FileSystem,
@@ -57,11 +57,10 @@ EFI_STATUS GetFileHandle(
 
     Print(L"SUCCESS:Volume is opened.\n");
     #endif
-    
     Status = Root->Open(
         Root,
         FileHandle,
-        FileName, // L"\\Logo.bmp"
+        FileName, 
         EFI_FILE_MODE_READ | EFI_FILE_MODE_WRITE,
         EFI_OPEN_PROTOCOL_GET_PROTOCOL
     );
